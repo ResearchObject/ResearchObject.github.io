@@ -1,3 +1,4 @@
+---
 author: junzhao
 date: 2013-05-16 09:05:26+00:00
 link: http://www.researchobject.org/the-now-and-future-of-data-publishing-a-symposium-22-may-2013-oxford-uk/

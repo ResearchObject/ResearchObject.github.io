@@ -1,3 +1,4 @@
+---
 author: stain
 date: 2016-05-18 16:00:55+00:00
 link: http://www.researchobject.org/2016-05-18-elixir-hackathon/

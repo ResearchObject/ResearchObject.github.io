@@ -1,3 +1,4 @@
+---
 author: Matt
 date: 2014-01-14 15:59:13+00:00
 link: http://www.researchobject.org/our-workshop-on-what-bioinformaticians-need-to-know-about-digital-publishing-beyond-the-pdf2-has-been-accepted-for-ismb2014/

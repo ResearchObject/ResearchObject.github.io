@@ -1,3 +1,4 @@
+---
 author: Matt
 date: 2014-02-28 15:56:22+00:00
 link: http://www.researchobject.org/example-of-encoding-an-ro-using-rdf-a/

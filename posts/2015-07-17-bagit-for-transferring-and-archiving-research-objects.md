@@ -1,3 +1,4 @@
+---
 author: stain
 date: 2015-07-17 15:54:24+00:00
 link: http://www.researchobject.org/bagit-for-transferring-and-archiving-research-objects/

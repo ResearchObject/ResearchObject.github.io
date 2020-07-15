@@ -1,3 +1,4 @@
+---
 author: stain
 date: 2017-11-09 15:25:46+00:00
 link: http://www.researchobject.org/2017-11-27-biocompute-objects/

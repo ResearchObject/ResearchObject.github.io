@@ -1,3 +1,4 @@
+---
 author: morrisonnorman
 date: 2015-03-23 15:09:53+00:00
 link: http://www.researchobject.org/why-publish-and-be-so-damned-hard-to-find/

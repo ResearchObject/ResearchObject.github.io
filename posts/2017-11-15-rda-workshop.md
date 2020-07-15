@@ -1,3 +1,4 @@
+---
 author: stain
 date: 2017-12-01 14:58:29+00:00
 link: http://www.researchobject.org/2017-11-15-rda-workshop/

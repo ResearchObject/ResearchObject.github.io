@@ -1,3 +1,4 @@
+---
 author: morrisonnorman
 date: 2015-07-17 15:51:26+00:00
 link: http://www.researchobject.org/research-objects-at-bosc/
