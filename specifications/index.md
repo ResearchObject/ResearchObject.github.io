@@ -37,7 +37,7 @@ Feel free to [suggest improvements](https://github.com/ResearchObject/researchob
 ### Research Object Crate
 
 
-**New: ** [RO-Crate](https://researchobject.github.io/ro-crate/) is being developed as a schema.org-style [lightweight alternative](https://researchobject.github.io/ro-crate/background) to the below Research Object serializations.
+**New:** [RO-Crate](https://researchobject.github.io/ro-crate/) is being developed as a schema.org-style [lightweight alternative](https://researchobject.github.io/ro-crate/background) to the below Research Object serializations.
 Join the [community](https://researchobject.github.io/ro-crate/#contribute) to help shape the specification!
 
 
