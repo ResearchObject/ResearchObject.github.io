@@ -4,7 +4,7 @@ This is the GitHub repository for contributing to the [Research Object](http://w
 
 The `*.md` files use [MarkDown](https://guides.github.com/features/mastering-markdown) content that is rendered to <https://researchobject.github.io/> by [GitHub pages](https://pages.github.com/). Alias <http://researchobject.org/> will (eventually) map to the same URL space.
 
-Posts in `_posts/` must have a filename like `2019-12-24-.md` and will appear on the bottom of the front page in reverse chronological order.
+Posts in `_posts/` must have a filename like `2019-12-24-exciting-title.md` and will appear on the bottom of the front page in reverse chronological order.
 
 To add to the top menu, edit `_config.yml`
 
