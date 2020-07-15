@@ -32,7 +32,7 @@ navbar-links:
   Overview: "overview"
   Specifications:
     - "RO-Crate (recommended)": "https://w3id.org/ro/crate/"
-    - "RO model (legacy)": "specifications"
+    - "RO model (legacy)": "specs"
   Scopes: "scopes"
 #  Related:
 #    - Clinicalcodes.org: "initiative/clinicalcodes"

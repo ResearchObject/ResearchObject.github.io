@@ -49,7 +49,7 @@ project](http://wf4ever.org/) (2010–2013), which built on the early [ideas and
 prototypes](http://users.ox.ac.uk/~oerc0033/preprints/research-objects.pdf) of
 [myExperiment packs](https://www.myexperiment.org/packs). 
 
-The Wf4Ever project formalized the [RO model](/specifications/),
+The Wf4Ever project formalized the [RO model](/specs/),
 [RO REST APIs](https://confluence.man.poznan.pl/community/display/docs/Wf4Ever+service+APIs), serializations 
 [RO-Bundle](https://w3id.org/ro/bundle/) and corresponding [implementations](http://sandbox.rohub.org/).
 

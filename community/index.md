@@ -22,34 +22,9 @@ title: Get Involved
 
 
       
+The [RO-Crate community calls](https://s.apache.org/ro-crate-minutes) are held every month, and anyone is [welcome to join](https://github.com/ResearchObject/ro-crate/issues/1).
 
-
-      
-
-
-        
-
-#### Discussions
-
-
-        If you want to post questions about Research Objects and any tooling, or provide general feedback to us, please subscribe to our mailing list at [https://lists.w3.org/Archives/Public/public-rosc/](https://lists.w3.org/Archives/Public/public-rosc/) or raise an issue at [https://github.com/ResearchObject/specifications/issues](https://github.com/ResearchObject/specifications/issues).
-        
-
-#### Development
-
-
-        Visit our Github pages if you want to download or contribute to the source code of our tooling
-
-
-
-
-  * [https://github.com/researchobject](https://github.com/researchobject)
-
-
-  * [https://github.com/wf4ever](https://github.com/wf4ever)
-
-
-      
+You may also subscribe to the mailing list [public-rosc](https://lists.w3.org/Archives/Public/public-rosc/).
 
 
     
