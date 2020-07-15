@@ -66,25 +66,13 @@ We know of the following ontology extensions to the core Research Object model:
 
 
 	
-  * The [roevo](https://w3id.org/ro/2016-01-28/roevo) model describing the evolution of a Research Object and its aggregated resources, which is also based on the [W3C PROV Ontology](http://www.w3.org/ns/prov#) recommendation
-
-	
-  * The [wfprov](https://w3id.org/ro/2016-01-28/wfprov) provenance model describing the execution of a scientific workflow, which is based on the latest [W3C PROV Ontology](http://www.w3.org/ns/prov#) recommendation.
-
-	
-  * The [wfdesc](https://w3id.org/ro/2016-01-28/wfdesc) model describing scientific workflow protocols to facilitate interpretation and reuse of scientific workflow
-
-	
-  * The [wf4ever](https://w3id.org/ro/2016-01-28/wf4ever) model describes common workflow service types and properties
-
-	
-  * The [RO-Opt](http://purl.org/net/RO-optimization#) ontology is designed for representing optimizations done to workflows and their provenance
-
-	
-  * The [roterms](https://w3id.org/ro/2016-01-28/roterms) vocabulary defines terms useful for typing and annotation of resources in a Research Object, e.g. _Hypothesis_, _ExampleRun_, _technicalContact_, _exampleValue_
-
-	
-  * The [MINIM minimum information model](http://purl.org/minim/description) for defining checklists for Research Objects. A Minim model defines a list of MUST/SHOULD/MAY requirements, associated with rules that express how to satisfy the requirement, e.g. by requiring certain resources to exist in the RO, or a more detailed query that must be fulfilled in its annotations.
+ * [roevo](https://w3id.org/ro/2016-01-28/roevo) model describing the evolution of a Research Object and its aggregated resources, which is also based on the [W3C PROV Ontology](http://www.w3.org/ns/prov#) recommendation
+ * [wfprov](https://w3id.org/ro/2016-01-28/wfprov) provenance model describing the execution of a scientific workflow, which is based on the latest [W3C PROV Ontology](http://www.w3.org/ns/prov#) recommendation.
+ * [wfdesc](https://w3id.org/ro/2016-01-28/wfdesc) model describing scientific workflow protocols to facilitate interpretation and reuse of scientific workflow
+ * [wf4ever](https://w3id.org/ro/2016-01-28/wf4ever) model describes common workflow service types and properties
+ * [RO-Opt](http://purl.org/net/RO-optimization#) ontology is designed for representing optimizations done to workflows and their provenance
+ * [roterms](https://w3id.org/ro/2016-01-28/roterms) vocabulary defines terms useful for typing and annotation of resources in a Research Object, e.g. _Hypothesis_, _ExampleRun_, _technicalContact_, _exampleValue_
+ * [MINIM minimum information model](http://purl.org/minim/description) for defining checklists for Research Objects. A Minim model defines a list of MUST/SHOULD/MAY requirements, associated with rules that express how to satisfy the requirement, e.g. by requiring certain resources to exist in the RO, or a more detailed query that must be fulfilled in its annotations.
 
 
 
@@ -92,17 +80,17 @@ We know of the following ontology extensions to the core Research Object model:
 ### Tooling
 
 
-[ROHub](http://www.rohub.org/) - a web application for creating, sharing and inspecting Research Objects.
-[bdbag ](https://github.com/ini-bdds/bdbag)- a **Python** library and command line for creating and manipulating [bagit-ro ](https://w3id.org/ro/bagit)archives
-[ro-python](https://github.com/ResearchObject/ro-python) - a **Python** library and command line to create/modify/inspect research object directories and RO Bundles - based on _RO Manager_
-[RO Manager](https://github.com/wf4ever/ro-manager) - A git-like command-line tool that can be used create research objects in your local file directory.
-[RO bundle API](https://github.com/apache/incubator-taverna-language/tree/master/taverna-robundle) - A **Java** library that can be used to generate and inspect the zip-based Research Object Bundles archives and their metadata.
-[ruby-ro-bundle](https://github.com/myGrid/ruby-ro-bundle) - a **Ruby** library for creating/inspecting Research Object Bundles and their metadata.
-[Combine archive conversion](https://github.com/stain/ro-combine-archive) - A tool for converting a [COMBINE archive](http://co.mbine.org/documents/archive) into a RO bundle, and vice versa. COMBINE archives can be browsed and modified using [CombineArchiveWeb](http://cat.sems.uni-rostock.de/).
-[Latex2RO](https://github.com/dgarijo/Latex2RO) - A simple tool designed to help creating Research Objects (ROs) from LaTeX papers. Given a LaTeX file, the RO creator will extract its title and metadata and fill partially a structured HTML page annotated in RDF-a with these metadata.
-[LDP4RO](https://github.com/oeg-upm/LDP4RO) - A [LDP4J](https://github.com/oeg-upm/LDP4RO) extension for creating, accessing and browsing Research Objects. See also the [LDP4RO demo](http://purl.org/net/ldp4ro).
-[ro-show](https://github.com/ResearchObject/ro-show) - a web application for viewing Research Objects (under development)
-
+ * [ROHub](http://www.rohub.org/) - a web application for creating, sharing and inspecting Research Objects.
+ * [bdbag ](https://github.com/ini-bdds/bdbag)- a **Python** library and command line for creating and manipulating [bagit-ro ](https://w3id.org/ro/bagit)archives
+ * [ro-python](https://github.com/ResearchObject/ro-python) - a **Python** library and command line to create/modify/inspect research object directories and RO Bundles - based on _RO Manager_
+ * [RO Manager](https://github.com/wf4ever/ro-manager) - A git-like command-line tool that can be used create research objects in your local file directory.
+ * [RO bundle API](https://github.com/apache/incubator-taverna-language/tree/master/taverna-robundle) - A **Java** library that can be used to generate and inspect the zip-based Research Object Bundles archives and their metadata.
+ * [ruby-ro-bundle](https://github.com/myGrid/ruby-ro-bundle) - a **Ruby** library for creating/inspecting Research Object Bundles and their metadata.
+ * [Combine archive conversion](https://github.com/stain/ro-combine-archive) - A tool for converting a [COMBINE archive](http://co.mbine.org/documents/archive) into a RO bundle, and vice versa. COMBINE archives can be browsed and modified using [CombineArchiveWeb](http://cat.sems.uni-rostock.de/).
+ * [Latex2RO](https://github.com/dgarijo/Latex2RO) - A simple tool designed to help creating Research Objects (ROs) from LaTeX papers. Given a LaTeX file, the RO creator will extract its title and metadata and fill partially a structured HTML page annotated in RDF-a with these metadata.
+ * [LDP4RO](https://github.com/oeg-upm/LDP4RO) - A [LDP4J](https://github.com/oeg-upm/LDP4RO) extension for creating, accessing and browsing Research Objects. See also the [LDP4RO demo](http://purl.org/net/ldp4ro).
+ * [ro-show](https://github.com/ResearchObject/ro-show) - a web application for viewing Research Objects (under development)
+ * 
 
 
 
