@@ -1,4 +1,4 @@
-# [![Research Object. Enabling reproducible, transparent research](/images/research-objects-illustration-1920.png)](http://www.researchobject.org/?attachment_id=1002)
+# [![Research Object. Enabling reproducible, transparent research](/images/research-objects-illustration-1920.png)](/images/research-objects-illustration.png)
 
 
 # Research Object Crate
