@@ -1,8 +1,8 @@
-# Research Object Crate (RO-Crate)
+# Research Object website researchobject.org
 
 This is the GitHub repository for contributing to the [Research Object](http://www.researchobject.org/) website.
 
-The `*.md` files use [MarkDown](https://guides.github.com/features/mastering-markdown) content that is rendered to <https://researchobject.github.io/> by [GitHub pages](https://pages.github.com/). Alias <http://researchobject.org/> maps to the same URL space.
+The `*.md` files use [MarkDown](https://guides.github.com/features/mastering-markdown) content that is rendered to <https://researchobject.github.io/> by [GitHub pages](https://pages.github.com/). Alias <http://researchobject.org/> will (eventually) map to the same URL space.
 
 Posts in `_posts/` must have a filename like `2019-12-24-.md` and will appear on the bottom of the front page in reverse chronological order.
 
