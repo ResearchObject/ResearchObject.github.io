@@ -29,30 +29,49 @@ round-avatar: false
 #title-img: /images/logo.png
 
 navbar-links:
-  News: "posts"
   Overview: "overview"
-  Scopes: "scopes"
-  "Specs & Tooling": "specifications"
-  "Related initiatives & Resources": "initiatives"
-  Events:
+  "Specs & Tooling": 
+    - "RO-Crate (recommended)": "https://w3id.org/ro/crate/"
+    - "RO model (legacy)": "specifications"
+  "Legacy":     
+    - Scopes: "scopes"
+    - "Related":
+      - Clinicalcodes.org: "initiative/clinicalcodes"
+      - Code as a Research Object: "initiative/code-as-a-research-object"
+      - Combine Archive: "initiative/combine-archive"
+      - DCAT: "initiative/data-catalog-vocabulary-dcat"
+      - Data FAIRport: "initiative/data-fairport-initiative"
+      - Dataset Descriptions: "initiative/HCLS Community Profile: dataset-descriptions-hcls-community-profile"
+      - Digital Object: "initiative/digital-object-architecture"
+      - Docker: "initiative/docker"
+      - Github: "initiative/github"
+      - iPython Notebooks: "initiative/ipython-notebooks"
+      - ISA: "initiative/isa"
+      - JATS: "initiative/jats"
+      - latex2Latex2RO: "initiative/ro"
+      - Minimum Information Model: "initiative/mim"
+      - myExperiment.org: "initiative/myexperiment-org"
+      - Nanopublications: "initiative/nanopublications"
+      - OAI-ORE (Object Reuse and Exchange): "initiative/oai-ore"
+      - OKF Ckan: "initiative/okf-ckan"
+      - OKF Data Packages: "initiative/okf-data-packages"
+      - Open Annotation Model: "initiative/open-annotation-model"
+      - Open Researcher and Contributor ID (ORCID): "initiative/orcid"
+      - PAV: "initiative/pav"
+      - Projects.ac: "initiative/projects-ac"
+      - PROV: "initiative/prov-provenance-model"
+      - Reproducible Research in R: "initiative/reproducible-research-in-r"
+      - ReproZip: "initiative/reprozip"
+      - Research Object Model: "initiative/research-object-model"
+      - RightField: "initiative/rightfield"
+      - RO Bundle (Zip): "initiative/ro-bundle-zip"
+      - SEEK: "initiative/seek"
+      - STELAR Asthma e-Lab: "initiative/stelar"
+      - taverna-prov: "initiative/Taverna Workflow Engine Prov Export: taverna-prov-taverna-workflow-engine-prov-export"
+      - VIVO-ISF Ontology: "initiative/vivo-isf-ontology"
+  Workshops:
     - RO2019: "ro2019"
     - RO2018: "ro2018"
   Publications: "publications"
   About: "about"
 
-defaults:
-  -
-    scope:
-      path: "posts"
-      type: "posts"
-    values:
-      layout: "post"
-      comments: true  # add comments to all blog posts
-      social-share: true # add social media sharing buttons to all blog posts
-      readtime: false # add estimated reading time on all blog posts
-  -
-    scope:
-      path: "" # all files
-    values:
-      layout: "page"
-      show-avatar: true
