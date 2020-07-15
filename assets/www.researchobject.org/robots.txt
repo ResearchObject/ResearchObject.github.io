@@ -1,3 +1,0 @@
-User-agent: *
-Disallow: /pages/wp-admin/
-Disallow: /pages/wp-includes/
