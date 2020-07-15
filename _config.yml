@@ -2,6 +2,7 @@
 title: researchobject.org
 email: info@esciencelab.org.uk
 description: > # this means to ignore newlines until "baseurl:"
+        ResearchObject.org is a community site aimed at gathering information, ideas, and interest around the topic of modernizing scholarly publication.
 #baseurl: "" # the subpath of your site, e.g. /blog
 #url: "https://www.esciencelab.org.uk" # the base hostname & protocol for your site
 github_username: researchobject
@@ -10,7 +11,9 @@ permalink: pretty
 
 markdown: kramdown
 
-remote_theme: mmistakes/minimal-mistakes
+remote_theme: daattali/beautiful-jekyll
+#theme: jekyll-theme-minimal
+#theme: just-the-docs
 
 plugins:
   - jekyll-redirect-from
