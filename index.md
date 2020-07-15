@@ -57,9 +57,8 @@ To discover the range of on going activities, and mechanisms that can be used to
 
 ## Get Involved!
 
-[![Gitter](/images/gitter.svg)](https://gitter.im/ResearchObject/ResearchObject)
+ResearchObject.org is a community site aimed at gathering information, ideas, and interest around the topic of modernizing scholarly publication. You can [contribute](https://github.com/ResearchObject/ResearchObject.github.io/) using GitHub issues or pull requests.
 
-Researchobjects.org is a community site aimed at gathering information, ideas, and interest around the topic of modernizing scholarly publication. Most of the current RO activities are happening as part of the [RO-Crate community](https://researchobject.github.io/ro-crate/#contribute) which you are welcome to join!
+Most of the current RO activities are happening as part of the [RO-Crate community](https://researchobject.github.io/ro-crate/#contribute) which you are [welcome to join](github.com/researchobject/ro-crate/issues/1)!
 
-To get the latest news head over to the [News and Events](http://www.researchobject.org/news/ "Blog"). If you would like to contribute to the site head over to the [About](http://www.researchobject.org/about/) page to see who we are, and how you can get involved.
 
