@@ -41,7 +41,8 @@ to ensure an open and inclusive environment.
 
 ## License
 
-* © 2010-2020 The University of Manchester, UK
+* © 2013-2014 University of Oxford, UK
+* © 2013-2020 The University of Manchester, UK
 
 The documentation maintained in this repository is Open Source and licensed as [Apache License, version 2.0](LICENSE), see <https://www.apache.org/licenses/LICENSE-2.0> for details.
 
