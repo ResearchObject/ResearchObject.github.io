@@ -18,3 +18,17 @@ remote_theme: daattali/beautiful-jekyll
 plugins:
   - jekyll-redirect-from
   - jekyll-remote-theme
+
+# See https://github.com/daattali/beautiful-jekyll/blob/master/_config.yml    
+
+navbar-links:
+  News: "posts"
+  Overview: "overview"
+  Scopes: "scopes"
+  "Specs & Tooling": "specifications"
+  "Related initiatives & Resources": "initiatives"
+  Events:
+    - RO2019: "ro2019"
+    - RO2018: "ro2018"
+  Publications: "publications"
+  About: "about"
