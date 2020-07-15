@@ -3,6 +3,7 @@ title: researchobject.org
 email: info@esciencelab.org.uk
 description: > # this means to ignore newlines until "baseurl:"
         ResearchObject.org is a community site aimed at gathering information, ideas, and interest around the topic of modernizing scholarly publication.
+author: The Research Object community is coordinated by the [eScience Lab](https://esciencelab.org.uk/), The University of Manchester
 #baseurl: "" # the subpath of your site, e.g. /blog
 #url: "https://www.esciencelab.org.uk" # the base hostname & protocol for your site
 github_username: researchobject
@@ -21,6 +22,12 @@ plugins:
 
 # See https://github.com/daattali/beautiful-jekyll/blob/master/_config.yml    
 
+
+logo: images/logo.png
+avatar: images/logo.png
+round-avatar: false
+title-img: images/logo.png
+
 navbar-links:
   News: "posts"
   Overview: "overview"
@@ -32,3 +39,20 @@ navbar-links:
     - RO2018: "ro2018"
   Publications: "publications"
   About: "about"
+
+defaults:
+  -
+    scope:
+      path: "posts"
+      type: "posts"
+    values:
+      layout: "post"
+      comments: true  # add comments to all blog posts
+      social-share: true # add social media sharing buttons to all blog posts
+      readtime: false # add estimated reading time on all blog posts
+  -
+    scope:
+      path: "" # all files
+    values:
+      layout: "page"
+      show-avatar: true
