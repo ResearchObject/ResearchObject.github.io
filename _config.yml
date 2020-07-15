@@ -10,7 +10,7 @@ permalink: pretty
 
 markdown: kramdown
 
-remote_theme: volny/creative-theme-jekyll
+remote_theme: mmistakes/minimal-mistakes
 
 plugins:
   - jekyll-redirect-from
