@@ -36,7 +36,7 @@ researchobject.org is developed for the research community, by the research comm
 ### Contact
 
 
-[![Gitter](https://camo.githubusercontent.com/da2edb525cde1455a622c58c0effc3a90b9a181c/68747470733a2f2f6261646765732e6769747465722e696d2f4a6f696e253230436861742e737667)](https://gitter.im/ResearchObject/ResearchObject)
+[![Gitter](/images/gitter.svg)](https://gitter.im/ResearchObject/ResearchObject)
 To discuss anything Research Object-related, please join our [Gitter chat ](https://gitter.im/ResearchObject/ResearchObject)room. You can sign in with a Github or Twitter account.
 You may also subscribe to our mailing list at [https://groups.google.com/forum/#!forum/ro-model-dev](https://groups.google.com/forum/#!forum/ro-model-dev).
 For anything researchobject.org related, you may also contact [support@mygrid.org.uk](mailto:support@mygrid.org.uk) (please mention researchobject.org in the subject line).
