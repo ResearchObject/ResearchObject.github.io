@@ -15,7 +15,7 @@ title: Home
 
 
 
-# [![Research Object. Enabling reproducible, transparent research](http://www.researchobject.org/pages/wp-content/uploads/2013/04/research-objects-illustration-1920.png)](http://www.researchobject.org/?attachment_id=1002)
+# [![Research Object. Enabling reproducible, transparent research](/images/research-objects-illustration-1920.png)](http://www.researchobject.org/?attachment_id=1002)
 
 
 
@@ -190,7 +190,7 @@ The goal of research objects is to improve the potential for understanding and r
 
 
 
-![aggregation](/pages/wp-content/images/coreonion.png)
+![aggregation](/images/coreonion.png)
 
 
 There are a growing number of, individuals, groups, and [initiatives](http://www.researchobject.org/initiative/) - all trying to improve the state of scholarly publication. These range from domain specific to general, and from the practical and immediately actionable, to the more visionary and experimental.

@@ -46,14 +46,14 @@ For anything researchobject.org related, you may also contact [support@mygrid.or
 
 
 researchobject.org is involved in an number of ongoing collaborations with the following institutions / projects:
-[![The Farr Institute](http://www.researchobject.org/pages/wp-content/uploads/2015/06/farr-logo.png)](http://www.farrinstitute.org/) [![](http://www.researchobject.org/pages/wp-content/uploads/2015/06/Fairdom-logo-100_2.png)](http://fair-dom.org/)[![BCO-logo](http://www.researchobject.org/pages/wp-content/uploads/2013/06/BCO-logo.png)](https://doi.org/10.17605/osf.io/h59uh)[![CWL-Logo-nofonts](http://www.researchobject.org/pages/wp-content/uploads/2013/06/CWL-Logo-nofonts.svg)](http://www.commonwl.org/)
+[![The Farr Institute](/images/farr-logo.png)](http://www.farrinstitute.org/) [![](/images/Fairdom-logo-100_2.png)](http://fair-dom.org/)[![BCO-logo](/images/BCO-logo.png)](https://doi.org/10.17605/osf.io/h59uh)[![CWL-Logo-nofonts](/images/CWL-Logo-nofonts.svg)](http://www.commonwl.org/)
 
 
 ### Background
 
 
 researchobject.org is a continuation of work done in the [Wf4Ever project](http://www.wf4ever-project.org/) which built on the [ideas and prototypes](http://users.ox.ac.uk/~oerc0033/preprints/research-objects.pdf) of [myExperiment packs](https://www.myexperiment.org/packs).
-[![wf4ever](http://www.researchobject.org/pages/wp-content/uploads/2013/06/wf4ever.jpeg)](http://www.wf4ever-project.org/)[![MyExperiment_logo_5016x960_trans](http://www.researchobject.org/pages/wp-content/uploads/2013/06/MyExperiment_logo_5016x960_trans.png)](https://www.myexperiment.org/)
+[![wf4ever](/images/wf4ever.jpeg)](http://www.wf4ever-project.org/)[![MyExperiment_logo_5016x960_trans](/images/MyExperiment_logo_5016x960_trans.png)](https://www.myexperiment.org/)
 
 
 

@@ -12,7 +12,7 @@ tags:
 - Tooling
 ---
 The completely renovated [ROHub](http://www.rohub.org/) portal, developed by the [EVER-EST project](http://ever-est.eu/), includes a new and modern design, improved performance, plus a set of new features focused on improving the user experience.
-[![Screenshot of rohub.org](http://www.researchobject.org/pages/wp-content/uploads/2017/12/rohub-screenshot-20170112.png)](http://www.rohub.org/)
+[![Screenshot of rohub.org](/images/rohub-screenshot-20170112.png)](http://www.rohub.org/)
 The ROHub was also presented at [IEEE eScience Conference](http://escience2017.org.nz/programme/), described in the paper [Towards a Human-Machine Scientific Partnership Based on Semantically Rich Research Objects](http://sandbox.rohub.org/rodl/ROs/experiences-escience-2017/preprint.pdf).
 <!-- more -->
 Some of the key features in the current release include:
@@ -48,9 +48,9 @@ Some of the key features in the current release include:
 
 
 
-<blockquote>José Manuel presenting "Towards a Human-Machine Scientific Partnership Based on Semantically Rich Research Objects" [@escience](https://twitter.com/escience?ref_src=twsrc%5Etfw) [pic.twitter.com/ctN6BU9q2y](https://t.co/ctN6BU9q2y)
+> José Manuel presenting "Towards a Human-Machine Scientific Partnership Based on Semantically Rich Research Objects" [@escience](https://twitter.com/escience?ref_src=twsrc%5Etfw) [pic.twitter.com/ctN6BU9q2y](https://t.co/ctN6BU9q2y)
 > 
-> -- Andres García-Silva (@andresgs77) [26 October 2017](https://twitter.com/andresgs77/status/923409909328121856?ref_src=twsrc%5Etfw)</blockquote>
+> -- Andres García-Silva (@andresgs77) [26 October 2017](https://twitter.com/andresgs77/status/923409909328121856?ref_src=twsrc%5Etfw)
 
 
 

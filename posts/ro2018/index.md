@@ -367,7 +367,7 @@ These RO2018 submission dates are separate from the[ eScience call](https://www.
 
 
 Travel bursaries were provided for 7 of the accepted speakers at RO2018. The bursary was kindly sponsored by[ BioExcel](https://bioexcel.eu/) (Centre of Excellence for Computational Biomolecular Research; H2020 grant[ 675728](http://cordis.europa.eu/projects/675728)).
-[![BioExcel](http://www.researchobject.org/pages/wp-content/uploads/2018/03/BioExcel_logo.svg)](https://bioexcel.eu/)
+[![BioExcel](/images/BioExcel_logo.svg)](https://bioexcel.eu/)
 Please contact [ro2018@easychair.org](mailto:ro2018@easychair.org) if you applied for a travel bursary; please include details of your costs. The RO2018 workshop chairs decided eligibility on a case-by-case basis. Student applicants and applicants from countries on the [DAC list](http://www.oecd.org/dac/financing-sustainable-development/development-finance-standards/daclist.htm) were prioritised.
 
 
@@ -428,7 +428,7 @@ Please contact [ro2018@easychair.org](mailto:ro2018@easychair.org) if you applie
 ## Sponsors
 
 
-[![BioExcel](http://www.researchobject.org/pages/wp-content/uploads/2018/03/BioExcel_logo.svg)](https://bioexcel.eu/)
+[![BioExcel](/images/BioExcel_logo.svg)](https://bioexcel.eu/)
 
 
 The RO2018 workshop is grateful for sponsorship from[ BioExcel](https://bioexcel.eu/), which is funded by the European Union Horizon 2020 program under grant agreement[ 675728](http://cordis.europa.eu/projects/675728).

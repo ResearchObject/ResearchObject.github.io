@@ -13,9 +13,9 @@ On 2017-07-22, Stian Soiland-Reyes [presented](https://www.youtube.com/watch?v=i
 
 <!-- more -->
 One surprise was that our **Common Workflow Language Viewer** poster ([doi:10.7490/f1000research.1114375.1](https://doi.org/10.7490/f1000research.1114375.1)) won a [F1000 Poster Award](https://www.iscb.org/ismbeccb2017/2865#f1000)!
-[![ISMB/ECCB 2017 F1000 Poster Award presented to Stian Soiland-Reyes. CWL Viewer: The Common Workflow Language Viewer](http://bioexcel.eu/wp-content/uploads/2017/08/f1000postercertificate-600x408.jpg)](https://www.iscb.org/ismbeccb2017/2865#f1000)
+[![ISMB/ECCB 2017 F1000 Poster Award presented to Stian Soiland-Reyes. CWL Viewer: The Common Workflow Language Viewer](/images/f1000postercertificate-600x408.jpg)](https://www.iscb.org/ismbeccb2017/2865#f1000)
 The [poster](https://doi.org/10.7490/f1000research.1114375.1) presents the [CWL Viewer](https://view.commonwl.org/), a web rendering of portable workflow executions defined in the [Common Workflow Language](http://bioexcel.eu/software/workflows/#cwl).
-[caption id="attachment_2343" align="alignnone" width="900"][![](http://bioexcel.eu/wp-content/uploads/2017/08/cwlposter-photo.jpg)](http://bioexcel.eu/wp-content/uploads/2017/08/f1000research-167455.pdf) CWL Poster at ISMB/ECCB 2017 - [photo by Michael R Crusoe](https://twitter.com/BioExcelCoE/status/889157731495661570/photo/1). ([doi:10.7490/f1000research.1114375.1](https://doi.org/10.7490/f1000research.1114375.1))[/caption]
+[caption id="attachment_2343" align="alignnone" width="900"][![](/images/cwlposter-photo.jpg)](http://bioexcel.eu/wp-content/uploads/2017/08/f1000research-167455.pdf) CWL Poster at ISMB/ECCB 2017 - [photo by Michael R Crusoe](https://twitter.com/BioExcelCoE/status/889157731495661570/photo/1). ([doi:10.7490/f1000research.1114375.1](https://doi.org/10.7490/f1000research.1114375.1))[/caption]
 The CWL Viewer is already used extensively by the CWL community, it has visualized more than [200 scientific workflows](https://view.commonwl.org/workflows).
 At the ISMB/ECCB conference, several talks in the [Bioinformatics Open Source Software](https://www.open-bio.org/wiki/BOSC_2017_Schedule) (BOSC) track related to CWL and reproducibility with scientific workflows.
 

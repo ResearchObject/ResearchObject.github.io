@@ -56,7 +56,7 @@ A **common set of goals and principles** brings together many of these dispara
 
 
 
-![aggregation](/pages/wp-content/images/ro-gpm.png)
+![aggregation](/images/ro-gpm.png)
 
 
 
@@ -82,7 +82,7 @@ At the heart of the research object approach are three core principles:
 
 	
   * 
-![identity](/pages/wp-content/images/identity.png)
+![identity](/images/identity.png)
 
 
 
@@ -106,7 +106,7 @@ Use globally unique identifiers as names for things. For example DOI’s for pub
 
 	
   * 
-![aggregation](/pages/wp-content/images/aggregation.png)
+![aggregation](/images/aggregation.png)
 
 
 
@@ -122,7 +122,7 @@ Use some mechanism of aggregation to associate things that are related or part o
 
 	
   * 
-![annotation](/pages/wp-content/images/annotation.png)
+![annotation](/images/annotation.png)
 
 
 
