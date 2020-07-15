@@ -51,7 +51,7 @@ prototypes](http://users.ox.ac.uk/~oerc0033/preprints/research-objects.pdf) of
 
 The Wf4Ever project formalized the [RO model](/specs/),
 [RO REST APIs](https://confluence.man.poznan.pl/community/display/docs/Wf4Ever+service+APIs), serializations 
-[RO-Bundle](https://w3id.org/ro/bundle/) and corresponding [implementations](http://sandbox.rohub.org/).
+[RO-Bundle](https://w3id.org/bundle/) and corresponding [implementations](http://sandbox.rohub.org/).
 
 The W3C Community Group 
 [Research Object for Scholarly Communication Community Group](https://www.w3.org/community/rosc/)
