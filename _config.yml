@@ -23,10 +23,10 @@ plugins:
 # See https://github.com/daattali/beautiful-jekyll/blob/master/_config.yml    
 
 
-logo: images/logo.png
-avatar: images/logo.png
+#logo: /images/logo.png
+avatar: /images/logo.png
 round-avatar: false
-title-img: images/logo.png
+#title-img: /images/logo.png
 
 navbar-links:
   News: "posts"
