@@ -1,0 +1,344 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="google-site-verification" content="ewxxcVzxW3hOw7PN_3n3DxrSR3Sdb67HI5PGi1dzAxY" />
+
+  <title>eScience Lab</title>
+  <meta name="description" content="The eScience Lab team is a multi-disciplinary internationally leading research group focusing on the challenges of eScience. We specialise in data and knowledge-intensive e-Laboratories.
+">
+
+  <link rel="stylesheet" href="/css/main.css">
+  <link rel="canonical" href="https://www.esciencelab.org.uk/">
+  <link rel="alternate" type="application/rss+xml" title="eScience Lab" href="https://www.esciencelab.org.uk/feed.xml">
+
+  <link id="favicon" rel="shortcut icon" href="https://www.esciencelab.org.uk/images/favicon.png" sizes="16x16 32x32 48x48" type="image/png" />
+
+  <link href='https://fonts.googleapis.com/css?family=Titillium+Web' rel='stylesheet' type='text/css'>  
+  <link href="https://fonts.googleapis.com/css?family=Open+Sans" rel="stylesheet" type='text/css'>
+
+  <!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-79167113-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-79167113-1', {'anonymize_ip':true});
+</script>
+
+
+  <!-- Begin Cookie Consent plugin by Silktide - http://silktide.com/cookieconsent -->
+<script type="text/javascript">
+    window.cookieconsent_options = {
+        "message":"This website uses cookies to ensure you get the best experience",
+        "dismiss":"Got it!",
+        "learnMore":"Find out more",
+        "link":'/cookies/',
+        "theme":"light-floating"
+    };
+</script>
+
+<script type="text/javascript" src="//cdnjs.cloudflare.com/ajax/libs/cookieconsent2/1.0.9/cookieconsent.min.js"></script>
+<!-- End Cookie Consent plugin -->
+
+
+
+</head>
+
+
+<body>
+
+
+<header class="site-header">
+  <div class="wrapper">
+    <a href="http://www.manchester.ac.uk/"><img
+      alt="The University of Manchester"
+      src="/images/logo/university-of-manchester-white.png" class="site-logo" /></a>
+    <a class="site-title" href="/">eScience Lab</a>
+
+    <nav class="site-nav">
+      <a class="menu-icon">
+        <svg viewBox="0 0 18 15">
+          <path fill="#ffffff" d="M18,1.484c0,0.82-0.665,1.484-1.484,1.484H1.484C0.665,2.969,0,2.304,0,1.484l0,0C0,0.665,0.665,0,1.484,0 h15.031C17.335,0,18,0.665,18,1.484L18,1.484z"/>
+          <path fill="#ffffff" d="M18,7.516C18,8.335,17.335,9,16.516,9H1.484C0.665,9,0,8.335,0,7.516l0,0c0-0.82,0.665-1.484,1.484-1.484 h15.031C17.335,6.031,18,6.696,18,7.516L18,7.516z"/>
+          <path fill="#ffffff" d="M18,13.516C18,14.335,17.335,15,16.516,15H1.484C0.665,15,0,14.335,0,13.516l0,0 c0-0.82,0.665-1.484,1.484-1.484h15.031C17.335,12.031,18,12.696,18,13.516L18,13.516z"/>
+        </svg>
+      </a>
+
+      <div class="trigger">
+        
+          
+            
+            <a class="page-link" href="/about/">About</a>
+            
+          
+        
+          
+        
+          
+        
+          
+            
+          
+        
+          
+            
+            <a class="page-link" href="/publications/">Publications</a>
+            
+          
+        
+          
+            
+          
+        
+          
+            
+          
+        
+          
+            
+            <a class="page-link" href="/people/">People</a>
+            
+          
+        
+          
+        
+          
+            
+            <a class="page-link" href="/posts/">News</a>
+            
+          
+        
+          
+            
+            <a class="page-link" href="/publications/presentations/">Presentations</a>
+            
+          
+        
+          
+        
+          
+            
+            <a class="page-link" href="/products/">Products</a>
+            
+          
+        
+          
+            
+            <a class="page-link" href="/projects/">Projects</a>
+            
+          
+        
+          
+            
+          
+        
+          
+            
+          
+        
+          
+            
+          
+        
+          
+            
+          
+        
+      </div>
+    </nav>
+
+  </div>
+
+</header>
+
+
+<div class="hero">
+  <div class="wrapper">
+    <script>
+  (function() {
+    var cx = '009928309455506448077:8wpsz0mu-j8';
+    var gcse = document.createElement('script');
+    gcse.type = 'text/javascript';
+    gcse.async = true;
+    gcse.src = (document.location.protocol == 'https:' ? 'https:' : 'http:') +
+        '//cse.google.com/cse.js?cx=' + cx;
+    var s = document.getElementsByTagName('script')[0];
+    s.parentNode.insertBefore(gcse, s);
+  })();
+</script>
+
+<div id="search-wrapper">
+  <gcse:search></gcse:search>
+</div>
+
+
+    <h1>eScience Lab</h1>
+  </div>
+</div>
+
+<div class="wrapper">
+  <div class="about">
+    <script type="application/ld+json">
+  {
+    "@context": "http://schema.org",
+    "@type": "Organization",
+    "name": "eScience Lab",
+    "@id": "https://esciencelab.org.uk/#",
+    "url": "https://esciencelab.org.uk/",
+    "subjectOf": "https://esciencelab.org.uk/about/",
+    "email": "info@esciencelab.org.uk",
+    "logo": "https://esciencelab.org.uk/images/logo/escienceLab-logo.png",
+    "parentOrganization": {
+        "@type": "Organization",
+        "name": "Information Management Group",
+        "alternateName": "IMG",
+        "url": "http://www.cs.manchester.ac.uk/img/",
+        "parentOrganization": {
+            "@type": "Organization",
+            "name": "School of Computer Science",
+            "alternateName": "CS",
+            "url": "http://www.cs.manchester.ac.uk/",
+            "address": {
+                "@type": "PostalAddress",
+                "streetAddress": "Oxford Road",
+                "addressLocality": "Manchester",
+                "postalCode": "M13 9PL",
+                "addressCountry": "UK"
+            },
+            "parentOrganization": {
+                "@type": "EducationalOrganization",
+                "name": "The University of Manchester",
+                "alternateName": "UNIMAN",
+                "url": "http://www.manchester.ac.uk/",
+                "logo": "https://assets.manchester.ac.uk/corporate/images/design/logo-university-of-manchester.png"
+            }
+        }
+    }
+  }
+  </script>
+
+<p>The <a href="/about/">eScience Lab</a> research group is led by <a href="http://www.manchester.ac.uk/research/Carole.goble/">Professor Carole Goble</a>. The group is based at the <a href="http://www.cs.manchester.ac.uk/">School of Computer Science</a>,  <a href="http://www.manchester.ac.uk">University of Manchester</a>. It’s affiliated with the wider <a href="http://www.cs.manchester.ac.uk/img/">Information Management Group</a>.</p>
+
+<p>The <a href="/people/">eScience Lab team</a> are focused on research and development around a set of tools designed for data driven and computational research. The tools support the coming together of people, data and methods in a particular research area; this is also know as an <em>e-laboratory</em>. These e-Laboratories or <em>e-Labs</em> support domains as diverse as systems biology, social science, music, astronomy, multimedia and chemistry. The <a href="/products/">tools</a> have been adopted by a large number of projects and institutions.</p>
+
+<p>Our <a href="/publications/">research</a> and <a href="/projects/">projects</a> span a wide array of topics, including eScience, bioinformatics, biodiversity, scholarly communication, reproducible science, linked data, provenance, community building and knowledge representation.</p>
+
+  </div>
+  <div class="news">
+    <ul class="post-list">
+    
+    <li>
+        <span class="post-meta">2019-06-13</span>
+
+        <h2>
+            <a class="post-link" href="/training/hpc/2019/06/13/bioexcel-prace/">BioExcel/PRACE Seasonal School 2019, Sweden – HPC for Life Sciences</a>
+        </h2>
+    </li>
+    
+    <li>
+        <span class="post-meta">2019-05-03</span>
+
+        <h2>
+            <a class="post-link" href="/announcements/event/2019/05/03/webinar-trustworthy-data/">ELIXIR Webinar: Trustworthy data repositories in the Life Sciences: The role of CoreTrustSeal Certification (29th May 2019)</a>
+        </h2>
+    </li>
+    
+    <li>
+        <span class="post-meta">2019-04-26</span>
+
+        <h2>
+            <a class="post-link" href="/announcements/event/2019/04/26/carpentryconnect-mcr/">Save the date: CarpentryConnect Manchester conference, 25-27 June 2019</a>
+        </h2>
+    </li>
+    
+</ul>
+
+  </div>
+  <div class="logo-grid">
+    
+    <a class="logo-grid-item" href="/products/biocatalogue/"><img src="/images/logo/biocatalogue.png"/></a>
+    
+    <a class="logo-grid-item" href="/products/cwlviewer/"><img src="/images/logo/cwl.svg"/></a>
+    
+    <a class="logo-grid-item" href="/products/myexperiment/"><img src="/images/logo/MyExperiment_logo.png"/></a>
+    
+    <a class="logo-grid-item" href="/products/researchobject/"><img src="/images/logo/researchobject.png"/></a>
+    
+    <a class="logo-grid-item" href="/products/rightfield/"><img src="/images/logo/rightfield-logo-with-text.png"/></a>
+    
+    <a class="logo-grid-item" href="/products/seek/"><img src="/images/logo/seek4science-logo.png"/></a>
+    
+    <a class="logo-grid-item" href="/products/taverna/"><img src="/images/logo/apache-taverna.svg"/></a>
+    
+    <a class="logo-grid-item" href="/products/tess/"><img src="/images/logo/tess.png"/></a>
+    
+</div>
+
+</div>
+
+
+<!-- external links should open in new tab - suggestion from http://goo.gl/LtjkOr -->
+<script>
+    (function() {
+        var links = document.links;
+        for (var i = 0, linksLength = links.length; i < linksLength; i++) {
+            if (links[i].hostname != window.location.hostname) {
+                links[i].target = '_blank';
+                links[i].className += ' externalLink';
+            }
+        }
+    })();
+</script>
+
+<footer class="site-footer">
+
+  <div class="wrapper">
+
+    <div class="footer-col-wrapper">
+      <div class="footer-col footer-col-1">
+        <ul class="social-media-list">
+          
+          <li>
+            <a href="https://github.com/eScienceLab"><span class="icon icon--github"><svg viewBox="0 0 16 16"><path fill="#828282" d="M7.999,0.431c-4.285,0-7.76,3.474-7.76,7.761 c0,3.428,2.223,6.337,5.307,7.363c0.388,0.071,0.53-0.168,0.53-0.374c0-0.184-0.007-0.672-0.01-1.32 c-2.159,0.469-2.614-1.04-2.614-1.04c-0.353-0.896-0.862-1.135-0.862-1.135c-0.705-0.481,0.053-0.472,0.053-0.472 c0.779,0.055,1.189,0.8,1.189,0.8c0.692,1.186,1.816,0.843,2.258,0.645c0.071-0.502,0.271-0.843,0.493-1.037 C4.86,11.425,3.049,10.76,3.049,7.786c0-0.847,0.302-1.54,0.799-2.082C3.768,5.507,3.501,4.718,3.924,3.65 c0,0,0.652-0.209,2.134,0.796C6.677,4.273,7.34,4.187,8,4.184c0.659,0.003,1.323,0.089,1.943,0.261 c1.482-1.004,2.132-0.796,2.132-0.796c0.423,1.068,0.157,1.857,0.077,2.054c0.497,0.542,0.798,1.235,0.798,2.082 c0,2.981-1.814,3.637-3.543,3.829c0.279,0.24,0.527,0.713,0.527,1.437c0,1.037-0.01,1.874-0.01,2.129 c0,0.208,0.14,0.449,0.534,0.373c3.081-1.028,5.302-3.935,5.302-7.362C15.76,3.906,12.285,0.431,7.999,0.431z"/></svg>
+</span><span class="username">eScienceLab</span></a>
+
+          </li>
+          
+          <div class="actions">
+            <a href="https://github.com/eScienceLab/eScienceLab.github.io/">Improve this page</a>
+          </div>
+          
+        </ul>
+        <ul class="contact-list">
+          <li>Contact eScience Lab:</li>
+          <li><a href="mailto:info@esciencelab.org.uk">info@esciencelab.org.uk</a></li>
+        </ul>
+
+      </div>
+
+      <div class="footer-col footer-col-2">
+        <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons Licence" style="border-width:0" width="88" height="31" src="/images/logo/cc-by.svg" /></a>
+        <br />
+        &copy; 2019 University of Manchester.
+        This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.
+      </div>
+
+      <div class="footer-col footer-col-3">
+        <p>The eScience Lab team is a multi-disciplinary internationally leading research group focusing on the challenges of eScience. We specialise in data and knowledge-intensive e-Laboratories.
+</p>
+      </div>
+    </div>
+
+  </div>
+
+</footer>
+
+
+</body>
+
+</html>
