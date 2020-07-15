@@ -8,7 +8,10 @@ github_username: researchobject
 encoding: UTF-8
 permalink: pretty
 
+markdown: kramdown
+
 remote_theme: volny/creative-theme-jekyll
 
 plugins:
   - jekyll-redirect-from
+  - jekyll-remote-theme
