@@ -44,7 +44,7 @@ The goal of research objects is to improve the potential for understanding and r
 
 ## How?
 
-![aggregation](/pages/wp-content/images/coreonion.png)</div>
+![aggregation](/pages/wp-content/images/coreonion.png)
 
 There are a growing number of, individuals, groups, and [initiatives](http://www.researchobject.org/initiative/ "RO Initiatives") – all trying to improve the state of scholarly publication. These range from domain specific to general, and from the practical and immediately actionable, to the more visionary and experimental.
 
