@@ -1,2 +1,14 @@
+# Site settings
+title: researchobject.org
+email: info@esciencelab.org.uk
+description: > # this means to ignore newlines until "baseurl:"
+#baseurl: "" # the subpath of your site, e.g. /blog
+#url: "https://www.esciencelab.org.uk" # the base hostname & protocol for your site
+github_username: researchobject
+encoding: UTF-8
+permalink: pretty
+
+remote_theme: volny/creative-theme-jekyll
+
 plugins:
   - jekyll-redirect-from
