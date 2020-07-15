@@ -74,3 +74,4 @@ navbar-links:
   Publications: "publications"
   About: "about"
 
+date_format: "%-d %B %Y"  
