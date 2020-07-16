@@ -75,3 +75,9 @@ navbar-links:
   About: "about"
 
 date_format: "%-d %B %Y"  
+
+collections:
+  initiative:
+    output: true
+    permalink: /:collection/:path/ # Note, trailing / needed to avoid .html
+
