@@ -40,6 +40,10 @@ Khalid Belhajjame, Jun Zhao, Daniel Garijo, Matthew Gamble, Kristina Hettne, Rau
  * BioCompute 2017: [High-throughput Sequencing Computational Standards for Regulatory Sciences (HTS-CSRS)](https://hive.biochemistry.gwu.edu/htscsrs/workshop_2017_agenda)
 
 
+## RO-Crate publications
+
+For the most recent articles, see [RO-Crate publications](/ro-crate/outreach).
+
 ## Related Publications
 
 Papers relevant to all aspects of Research Objects, and the future of scholarly publishing. We generally only list publications available as [Open Access](http://www.library.manchester.ac.uk/using-the-library/staff/research/services/open-access-at-manchester/). To suggest corrections or additions, please [raise an issue](https://github.com/ResearchObject/researchobject.org/issues).
