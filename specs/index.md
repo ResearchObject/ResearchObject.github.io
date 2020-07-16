@@ -10,42 +10,68 @@ title: Specs & Tooling
 
 ## Specifications and Tooling
 
-Feel free to [suggest improvements](https://github.com/ResearchObject/researchobject.org/issues) on this page, e.g. to add another Research Object tool.
+<div class="alert alert-info" role="alert">
+  It is <strong>recommended</strong> that new Research Object users adapt the <a href="/ro-crate/">RO-Crate</a> specification.
+</div>
 
 
 ### Research Object Crate
 
 
-**New:** [RO-Crate](https://researchobject.github.io/ro-crate/) has been developed as a schema.org-style [lightweight alternative](https://researchobject.github.io/ro-crate/background) to the legacy Research Object serializations described below.
 
-It is **recommended** that new users of Research Object first consider [RO-Crate](https://researchobject.github.io/ro-crate/).
+[RO-Crate](/ro-crate/) is a community effort to establish a lightweight
+approach to packaging research data with their metadata. It is based on
+[schema.org](https://schema.org/) annotations in
+[JSON-LD](https://json-ld.org/), and aims to make best-practice in formal
+metadata description accessible and practical for use in a wider variety of
+situations, from an individual researcher working with a folder of data, to
+large data-intensive computational research environments.
 
-Join the [RO-Crate community](https://researchobject.github.io/ro-crate/#contribute) to help shape the specification!
+RO-Crate is the marriage of _Research Objects_ with
+[DataCrate](https://github.com/UTS-eResearch/datacrate). It aims to build on
+their respective strengths, but also to draw on lessons learned from those
+projects and similar research data packaging efforts. For more details, see
+[RO-Crate background](/ro-crate/background/).
+
+The [RO-Crate specification](https://w3id.org/ro/crate/1.0) details how to
+capture a set of files and resources as a dataset with associated metadata –
+including contextual entities like people, organizations, publishers, funding,
+licensing, provenance, workflows, geographical places, subjects and
+repositories.
+
+A growing list of [RO-Crate tools and libraries](/ro-crate/#how-can-i-use-it)
+simplify creation and consumption of RO-Crates, including the graphical
+interface [Describo](https://uts-eresearch.github.io/describo/).
+
+Join the [RO-Crate community](/ro-crate/#contribute) to help shape the
+specification or get help with using it!
 
 
+### Research Object Model specifications
 
-### Specifications and vocabularies
-
-Latest Research Object Model release is: [2016-01-28](https://w3id.org/ro/2016-01-28)
-
-**Note**: The legacy specifications for the _Research Object Model_ (below) are
-provided for archival purposes and no longer actively maintained. It is
-**recommended** that new users of Research Object try instead to adapt
-[RO-Crate](https://researchobject.github.io/ro-crate/).
-
-
-#### Core
+<div class="alert alert-warning" role="alert">
+  <strong>Note</strong>: The legacy specifications for the <em>Research Object Model</em> 
+    (below) are no longer actively maintained. It is
+    <strong>recommended</strong> that new users of Research Object adapt 
+    <a href="/ro-crate/">RO-Crate</a>.
+</div>
 
 
- * [ro overview](https://w3id.org/ro/2016-01-28/) - Overview of all the Research Object vocabularies
+#### RO core
+
+<div class="alert alert-info" role="alert">
+  Latest Research Object Model release is: 
+  <a href="https://w3id.org/ro/2016-01-28">2016-01-28</a>
+</div>
+
+ * [ro overview](https://w3id.org/ro/2016-01-28/) - Overview of the Research Object Model vocabularies
  * [ro ontology](https://w3id.org/ro/2016-01-28/ro) - The core concepts of Research Objects, identity, aggregation, and annotation, are captured in the specification of the _ro model_. The specification of this core Research Object model is described in the _ro_ ontology under the namespace [http://purl.org/wf4ever/ro#](http://purl.org/wf4ever/ro#).
  * [ro-bundle](https://w3id.org/bundle) - Research Object Bundle, a zip-based serialization of the Research Object model based upon the Adobe Universal Container Format (UCF).
  * [bagit-ro](https://w3id.org/ro/bagit) - A profile for Research Object as [BagIt archives](https://tools.ietf.org/html/draft-kunze-bagit-14), which can be serialized as _zip_, _tar_ or _tar.gz _- basis for [BDBag](https://github.com/fair-research/bdbag) (_Big Data Bags_) developed by [FAIR Research](https://fair-research.org).
  * [LDP4ROs](http://purl.org/net/ldp4ro/spec) - Alignment between the Research Object model and the W3C [Linked Data Platform](http://www.w3.org/TR/ldp/) (LDP).
- * [RO-Crate](https://researchobject.github.io/ro-crate/) - a lightweight [JSON-LD](https://json-ld.org) format based on [schema.org](https://schema.org).
 
 
-#### Extensions
+#### RO extensions
 
 We know of the following ontology extensions to the core Research Object model:
 	
@@ -58,7 +84,7 @@ We know of the following ontology extensions to the core Research Object model:
  * [MINIM minimum information model](http://purl.org/minim/description) for defining checklists for Research Objects. A Minim model defines a list of MUST/SHOULD/MAY requirements, associated with rules that express how to satisfy the requirement, e.g. by requiring certain resources to exist in the RO, or a more detailed query that must be fulfilled in its annotations.
 
 
-### Tooling
+### RO Model tooling
 
 
  * [ROHub](http://www.rohub.org/) - a web application for creating, sharing and inspecting Research Objects.
@@ -73,7 +99,7 @@ We know of the following ontology extensions to the core Research Object model:
  * [ro-show](https://github.com/ResearchObject/ro-show) - a web application for viewing Research Objects (under development)
 
 
-### Tutorials
+### RO Model tutorials
 
 [Research Object Ontologies and Vocabularies Primer](http://purl.org/wf4ever/ro-primer) introduces the Research Object model and ontology, using an example of a Workflow Research Object described as Linked Data.
 
