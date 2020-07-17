@@ -34,11 +34,11 @@ navbar-links:
     - "RO-Crate (recommended)": "https://w3id.org/ro/crate/"
     - "RO model (legacy)": "specs"
   Scopes: "scopes"
-  Related: "related"
   Workshops:
     - RO2019: "ro2019"
     - RO2018: "ro2018"
   Publications: "publications"
+  Related: "initiative"
   About: "about"
 
 date_format: "%-d %B %Y"  
