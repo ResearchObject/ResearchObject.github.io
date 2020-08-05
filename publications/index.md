@@ -205,7 +205,7 @@ Khalid Belhajjame, Jun Zhao, Daniel Garijo, Matthew Gamble, Kristina Hettne, Rau
 
 Eleni Mina, Mark Thompson, Rajaram Kaliyaperumal, Jun Zhao, Eelke van der Horst,Zuotian Tatum, Kristina M Hettne, Erik A Schultes, Barend Mons, Marco Roos (2015): **Nanopublications for exposing experimental data in the life-sciences: a Huntington’s Disease case study.** _Journal of Biomedical Semantics_ **6**(5). [https://doi.org/10.1186/2041-1480-6-5](https://doi.org/10.1186/2041-1480-6-5)
 
-Daniel Garijo, Nandana Mihindukulasooriya, Oscar Corcho (2015): **LDP4ROs: Managing Research Objects with the W3C Linked Data Platform**. _WWW ’15 Companion_. Proceedings of the 24th International Conference on World Wide Web. [https://doi.org/10.1145/2740908.2742016](https://doi.org/10.1145/2740908.2742016 "https://doi.org/10.1145/2740908.2742016")
+Daniel Garijo, Nandana Mihindukulasooriya, Oscar Corcho (2015): **LDP4ROs: Managing Research Objects with the W3C Linked Data Platform**. _WWW ’15 Companion_. Proceedings of the 24th International Conference on World Wide Web. <https://doi.org/10.1145/2740908.2742016> [[pdf](http://dgarijo.com/papers/garijo-savesd2015.pdf)]
 
 Anna Bánáti, Péter Kacsuk, Miklós Kozlovszky (2015): **Minimal sufficient information about the scientific workflows to create reproducible experiment**. _IEEE 19th International Conference on Intelligent Engineering Systems (INES) 2015_. [https://doi.org/10.1109/INES.2015.7329705](https://doi.org/10.1109/INES.2015.7329705) [[preprint]](http://eprints.sztaki.hu/id/eprint/8626)
 
