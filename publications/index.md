@@ -282,7 +282,8 @@ Matthew Gamble, Carole Goble, Graham Klyne, Jun Zhao (2012) **MIM: A minimum inf
 
 ### 2011
 
-David De Roure, Khalid Belhajjam, Paolo Missier, José Manuel Gómez-Pérez, Raúl Palma, José Enrique Ruiz, Kristina Hettne, Marco Roos, Graham Klyne, Carole Goble (2011): **Towards the Preservation of Scientific Workflows**. iPRES 2011 – 8th International Conference on Preservation of Digital Objects. [https://doi.org/11353/10.294253](https://doi.org/11353/10.294253) [[researchgate](https://www.researchgate.net/publication/236212541_Towards_the_Preservation_of_Scientific_Workflows)]
+David De Roure, Khalid Belhajjam, Paolo Missier, José Manuel Gómez-Pérez, Raúl Palma, José Enrique Ruiz, Kristina Hettne, Marco Roos, Graham Klyne, Carole Goble (2011): **Towards the Preservation of Scientific Workflows**. iPRES 2011 – 8th International Conference on Preservation of Digital Objects. [https://doi.org/11353/10.294253](https://doi.org/11353/10.294253) [[researchgate](https://www.researchgate.net/publication/236212541_Towards_the_Preservation_of_Scientific_Workflows)] [[preprint o:294253](https://doi.org/11353/10.294253)] [[proceedings p228](http://web.archive.org/web/20130525105112/http://s3.amazonaws.com/files.posterous.com/temp-2012-01-02/dHqmzjcCGoexvmiBzJDCyhrlhIgswoffzvsfnpEAxjHFEesarvwahEHrmyvj/iPRES2011.proceedings.pdf?AWSAccessKeyId=AKIAJFZAE65UYRT34AOQ&Expires=1369479372&Signature=e1gwEcnUeoq9433EKB8niGdnSWI%3D#page=240)]
+
 
 Kevin Richards, Richard White, Nicola Nicolson, Richard Pyle (2011) **A Beginner’ s Guide to Persistent Identifiers**, Global Biodiversity, p. 33, [pdf](http://links.gbif.org/persistent_identifiers_guide_en_v1.pdf)
 
