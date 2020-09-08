@@ -95,15 +95,6 @@ _Research Ideas and Outcomes_ **6**:e57602
 <https://doi.org/10.3897/rio.6.e57602>
 
 
-<!--
-Jung-Ho Um, Myeongseok Choi, Hyunwoo Kim, Sanghwan Lee  (2020):
-**Making Reproducible Research Data by Utilizing Persistent ID graph structure**
-_2020 IEEE International Conference on Big Data and Smart Computing ([BigComp](http://bigcomputing.org/conf2020/))_
-<https://doi.org/10.1109/BigComp48618.2020.00018> **No Open Access available?**
-[[Web Proceedings](https://bigcomp20:conf20%2f%2f@conferences.computer.org/bigcomp/2020/)]
-[[pdf](https://bigcomp20:conf20%2f%2f@conferences.computer.org/bigcomp/2020/pdfs/BigComp2020-saR4xR70FeHCt4Se6m6RR/603400a597/603400a597.pdf)]
--->
-
 Mirko Albani, Rosemarie Leone, Federica Foglini, Francesco De Leo, Fulvio Marelli, Iolanda Maggio (2020):  
 **EVER-EST: The Platform Allowing Scientists to Cross-Fertilize and Cross-Validate Data**  
 _Data Science Journal_ **19**(1)
@@ -118,6 +109,22 @@ Maxwell Adam Levinson, Justin Niestroy, Sadnan Al Manir, Karen Fairchild, Dougla
 **FAIRSCAPE: A Framework for FAIR and Reproducible Biomedical Analytics**
 _bioRxiv_ 2020.08.10.244947
 <https://doi.org/10.1101/2020.08.10.244947>
+
+<!-- NOTE: Does not really cite Research Object, just FAIR and myExperiment
+Janno Harjes, Anton Link, Tanja Weibulat, Dagmar Triebel, Gerhard Rambold (2020):  
+**FAIR digital objects in environmental and life sciences should comprise workflow operation design data and method information for repeatability of study setups and reproducibility of results**  
+_Database_ **2020**:, 2020, baaa059
+<https://doi.org/10.1093/database/baaa059>
+-->
+
+<!-- NOTE: No OA preprint
+Jung-Ho Um, Myeongseok Choi, Hyunwoo Kim, Sanghwan Lee  (2020):
+**Making Reproducible Research Data by Utilizing Persistent ID graph structure**
+_2020 IEEE International Conference on Big Data and Smart Computing ([BigComp](http://bigcomputing.org/conf2020/))_
+<https://doi.org/10.1109/BigComp48618.2020.00018> **No Open Access available?**
+[[Web Proceedings](https://bigcomp20:conf20%2f%2f@conferences.computer.org/bigcomp/2020/)]
+[[pdf](https://bigcomp20:conf20%2f%2f@conferences.computer.org/bigcomp/2020/pdfs/BigComp2020-saR4xR70FeHCt4Se6m6RR/603400a597/603400a597.pdf)]
+-->
 
 
 ### 2019
@@ -189,6 +196,12 @@ _[https://doi.org/10.1109/eScience.2018.00018](https://doi.org/10.1109/eScience.
 _[https://doi.org/10.1109/eScience.2018.00019](https://doi.org/10.1109/eScience.2018.00019) [[preprint](https://doi.org/10.5281/zenodo.1420531)] [[pdf](https://zenodo.org/record/1420531/files/mecum-dataone-reproducible-packages-2018.pdf?download=1)]
 
 ### 2017
+
+
+Mark D. Wilkinson​, Ruben Verborgh, Luiz Olavo Bonino da Silva Santos, Tim Clark,, Morris A. Swertz, Fleur D.L. Kelpin, Alasdair J.G. Gray, Erik A. Schultes, Erik M. van Mulligen, Paolo Ciccarese, Arnold Kuzniar, Anand Gavai, Mark Thompson, Rajaram Kaliyaperumal, Jerven T. Bolleman, Michel Dumontier (2017):
+**Interoperability and FAIRness through a novel combination of Web technologies**
+_PeerJ Computer Science_ **3**:e110
+<https://doi.org/10.7717/peerj-cs.110>
 
 Tobias Kuhn, Michel Dumontier (2017): **Genuine semantic publishing.** _Data Science_, **1(**1-2) [https://doi.org/10.3233/DS-170010](https://doi.org/10.3233/DS-170010)
 
