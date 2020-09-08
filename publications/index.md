@@ -15,17 +15,30 @@ title: Publications
 
 To reference _Research Objects_ in your work, please use the following citation:
 
-Sean Bechhofer, Iain Buchan, David De Roure, Paolo Missier, John Ainsworth, Jiten Bhagat, Phillip Couch, Don Cruickshank, Mark Delderfield, Ian Dunlop, Matthew Gamble, Danius Michaelides, Stuart Owen, David Newman, Shoaib Sufi, Carole Goble (2013) **Why Linked Data is Not Enough for Scientists**, _Future Generation Computer Systems_ **29**(2), February 2013, Pages 599-611, ISSN 0167-739X, [https://doi.org/10.1016/j.future.2011.08.004](https://doi.org/10.1016/j.future.2011.08.004) [[preprint](http://users.ox.ac.uk/~oerc0033/preprints/research-objects.pdf)] [[ResearchGate](https://www.researchgate.net/publication/46411781_Why_Linked_Data_is_Not_Enough_for_Scientists)]
+Sean Bechhofer, Iain Buchan, David De Roure, Paolo Missier, John Ainsworth, Jiten Bhagat, Phillip Couch, Don Cruickshank, Mark Delderfield, Ian Dunlop, Matthew Gamble, Danius Michaelides, Stuart Owen, David Newman, Shoaib Sufi, Carole Goble (2013)  
+**Why Linked Data is Not Enough for Scientists**  
+_Future Generation Computer Systems_ **29**(2), February 2013, Pages 599-611, ISSN 0167-739X  
+<https://doi.org/10.1016/j.future.2011.08.004> [[preprint](http://users.ox.ac.uk/~oerc0033/preprints/research-objects.pdf)] [[ResearchGate](https://www.researchgate.net/publication/46411781_Why_Linked_Data_is_Not_Enough_for_Scientists)]
 
 If you would like to cite the _Research Object model_, please use:
 
-Khalid Belhajjame, Jun Zhao, Daniel Garijo, Matthew Gamble, Kristina Hettne, Raul Palma, Eleni Mina, Oscar Corcho, José Manuel Gómez-Pérez, Sean Bechhofer, Graham Klyne, Carole Goble (2015) **Using a suite of ontologies for preserving workflow-centric research objects**, _Web Semantics_: Science, Services and Agents on the World Wide Web, [https://doi.org/10.1016/j.websem.2015.01.003](https://doi.org/10.1016/j.websem.2015.01.003)
+Khalid Belhajjame, Jun Zhao, Daniel Garijo, Matthew Gamble, Kristina Hettne, Raul Palma, Eleni Mina,
+Oscar Corcho, José Manuel Gómez-Pérez, Sean Bechhofer, Graham Klyne, Carole Goble (2015):  
+**Using a suite of ontologies for preserving workflow-centric research objects**   
+_Journal of Web Semantics_ **32**
+<https://doi.org/10.1016/j.websem.2015.01.003>
 
-## Related workshops
+## Related events/workshops
+
+These events cover topics largely overlapping with research objects and modernizing scholarly communication.
+
+### 2020
+
+- ECCB 2020: [Workshop on FAIR Computational Workflows](https://eccb2020.info/ntbew01-workshop-on-fair-computational-workflows/)
 
 ### 2019
 
- * eScience 2019: [Workshop on Research Objects (RO2019)](http://www.researchobject.org/ro2019/)
+  * eScience 2019: [Workshop on Research Objects (RO2019)](https://www.researchobject.org/ro2019/) [[Proceedings](https://www.researchobject.org/ro2019/proceedings)] [[Presentations](https://www.researchobject.org/ro2019/schedule)]
  * BioCompute 2019: [Tools for Communicating Next Generation Sequencing Data and Analysis](https://biocomputeobject.org/2019-workshop.html)
 
 ### 2018
@@ -42,31 +55,56 @@ Khalid Belhajjame, Jun Zhao, Daniel Garijo, Matthew Gamble, Kristina Hettne, Rau
 
 ## RO-Crate publications
 
-For the most recent articles, see [RO-Crate publications](/ro-crate/outreach).
+For the most recent articles, see also [RO-Crate publications](/ro-crate/outreach).
+
 
 ## Related Publications
 
-Papers relevant to all aspects of Research Objects, and the future of scholarly publishing. We generally only list publications available as [Open Access](http://www.library.manchester.ac.uk/using-the-library/staff/research/services/open-access-at-manchester/). To suggest corrections or additions, please [raise an issue](https://github.com/ResearchObject/researchobject.org/issues).
+Articles relevant to all aspects of Research Objects, and the future of scholarly publishing. We generally only list publications available as [Open Access](http://www.library.manchester.ac.uk/using-the-library/staff/research/services/open-access-at-manchester/). To suggest corrections or additions, please [raise an issue](https://github.com/ResearchObject/researchobject.org/issues).
 
-### 2019
+### 2020
 
-* eScience 2019: [Workshop on Research Objects (RO2019)](http://www.researchobject.org/ro2019/)
-* BioCompute 2019: [Tools for Communicating Next Generation Sequencing Data and Analysis](https://biocomputeobject.org/2019-workshop.html)
+Jeremy Leipzig, Daniel Nüst, Charles Tapley Hoyt, Stian Soiland-Reyes, Karthik Ram, Jane Greenberg (2020):  
+**The role of metadata in reproducible computational research**  
+[arXiv:2006.08589](https://arxiv.org/abs/2006.08589) [[pdf](https://arxiv.org/pdf/2006.08589.pdf)]
 
-### 2018
+Kyle Chard, Niall Gaffney, Mihael Hategan, Kacper Kowalik, Bertram Ludaescher, Timothy McPhillips, Jarek Nabrzyski, Victoria Stodden, Ian Taylor, Thomas Thelen, Matthew J. Turk, Craig Willis(2020):  
+**Toward Enabling Reproducibility for Data-Intensive Research using the Whole Tale Platform**  
+_Advances in Parallel Computing 2020_
+<https://doi.org/10.3233/APC200107>
+[preprint arXiv:2005.06087](https://arxiv.org/abs/2005.06087)
 
-* eScience 2018: [Workshop on Research Objects (RO2018)](http://www.researchobject.org/ro2018/) ([Proceedings](http://www.researchobject.org/ro2018/ro2018-proceedings/), [presentations](http://www.researchobject.org/ro2018/ro2018-schedule/))
-* RDA 11th Plenary: [Approaches to Research Data Packaging](https://rd-alliance.org/approaches-research-data-packaging-rda-11th-plenary-bof-meeting) ([presentations](https://docs.google.com/document/d/1ZlfaDAgjyI1iLf5zHtMIdE4pUBpUvmEC11C6ZBmmd7s/edit?usp=sharing%C2%A0))
-* BioCompute 2018: [High-throughput Sequencing Computational Standards for Regulatory Sciences (HTS-CSRS)](https://hive.biochemistry.gwu.edu/htscsrs/workshop_2018)
+Carole Goble, Sarah Cohen-Boulakia, Stian Soiland-Reyes, Daniel Garijo, Yolanda Gil, Michael R. Crusoe, Kristian Peters, Daniel Schober (2020):  
+[**FAIR Computational Workflows**](http://www.data-intelligence-journal.org/p/45/).  
+_Data Intelligence_  **2**(1):108–121
+<https://doi.org/10.1162/dint_a_00033>
 
-### 2017
+Nick Juty, Sarala M. Wimalaratne, Stian Soiland-Reyes, John Kunze, Carole A. Goble, Tim Clark (2020):  
+[**Unique, Persistent, Resolvable: Identifiers as the foundation of FAIR**](http://www.data-intelligence-journal.org/p/31/).  
+_Data Intelligence_ **2**(1):30–39
+<https://doi.org/10.1162/dint_a_00025>
 
-* NFAIS CENDI: [Managing Digital Objects in an Expanding Science Ecosystem](https://www.nfais.org/DROs) ([slides](https://www.rd-alliance.org/managing-digital-research-objects-expanding-science-ecosystem))
-* BioCompute 2017: [High-throughput Sequencing Computational Standards for Regulatory Sciences (HTS-CSRS)](https://hive.biochemistry.gwu.edu/htscsrs/workshop_2017_agenda)
+Paul Groth, Helena Cousijn, Tim Clark, Carole Goble (2020):  
+[**FAIR Data Reuse – the Path through Data Citation**](http://www.data-intelligence-journal.org/p/37/).  
+_Data Intelligence_ **2**(1):78–86
+<https://doi.org/10.1162/dint_a_00030>
 
-## Related Publications
+Stephanie Walton, Laurence Livermore, Olaf Bánki, Robert W. N. Cubey, Robyn Drinkwater, Markus Englund, Carole Goble, Quentin Groom, Christopher Kermorvant, Isabel Rey, Celia M Santos, Ben Scott, Alan R. Williams, Zhengzhe Wu (2020):  
+**Landscape Analysis for the Specimen Data Refinery**  
+_Research Ideas and Outcomes_ **6**:e57602
+<https://doi.org/10.3897/rio.6.e57602>
 
-Papers relevant to all aspects of Research Objects, and the future of scholarly publishing. We generally only list publications available as [Open Access](http://www.library.manchester.ac.uk/using-the-library/staff/research/services/open-access-at-manchester/). To suggest corrections or additions, please [raise an issue](https://github.com/ResearchObject/researchobject.org/issues).
+
+<!--
+Jung-Ho Um, Myeongseok Choi, Hyunwoo Kim, Sanghwan Lee  (2020):
+**Making Reproducible Research Data by Utilizing Persistent ID graph structure**
+_2020 IEEE International Conference on Big Data and Smart Computing ([BigComp](http://bigcomputing.org/conf2020/))_
+<https://doi.org/10.1109/BigComp48618.2020.00018> **No Open Access available?**
+[[Web Proceedings](https://bigcomp20:conf20%2f%2f@conferences.computer.org/bigcomp/2020/)]
+[[pdf](https://bigcomp20:conf20%2f%2f@conferences.computer.org/bigcomp/2020/pdfs/BigComp2020-saR4xR70FeHCt4Se6m6RR/603400a597/603400a597.pdf)]
+-->
+
+
 
 ### 2019
 
@@ -274,7 +312,7 @@ Darrel C Ince, Leslie Hatton, John Graham-Cumming (2012) **The case for open com
 
 A. Morin, J. Urban, P. D. Adams, I. Foster, A. Sali, D. Baker, P. Sliz (2012) **Shining Light into Black Boxes**, Science 336, p. 159-160, [https://doi.org/10.1126/science.1218263](https://doi.org/10.1126/science.1218263)
 
-Jun Zhao, Jose Manuel Gomez-perez, Khalid Belhajjame, Graham Klyne, Esteban Garcia-cuesta (2012) **Why Workflows Break – Understanding and Combating Decay in Taverna Workflows**, _8th International Conference on E-Science_ (e-Science), IEEE. [https://doi.org/10.1109/eScience.2012.6404482](https://doi.org/10.1109/eScience.2012.6404482)
+Jun Zhao, Jose Manuel Gomez-perez, Khalid Belhajjame, Graham Klyne, Esteban Garcia-cuesta (2012) **Why Workflows Break – Understanding and Combating Decay in Taverna Workflows**, _8th International Conference on E-Science_ (e-Science), IEEE. [https://doi.org/10.1109/eScience.2012.6404482](https://doi.org/10.1109/eScience.2012.6404482) [[preprint](http://users.ox.ac.uk/~oerc0033/preprints/why-decay.pdf)]
 
 Katherine Wolstencroft, Stuart Owen, Carole Goble, Quyen Nguyen, Olga Krebs, Wolfgang Müller (2012) **RightField : Semantic Enrichment of Systems Biology Data using Spreadsheets**
 
