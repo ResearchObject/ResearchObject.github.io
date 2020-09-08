@@ -104,6 +104,15 @@ _2020 IEEE International Conference on Big Data and Smart Computing ([BigComp](h
 [[pdf](https://bigcomp20:conf20%2f%2f@conferences.computer.org/bigcomp/2020/pdfs/BigComp2020-saR4xR70FeHCt4Se6m6RR/603400a597/603400a597.pdf)]
 -->
 
+Mirko Albani, Rosemarie Leone, Federica Foglini, Francesco De Leo, Fulvio Marelli, Iolanda Maggio (2020):  
+**EVER-EST: The Platform Allowing Scientists to Cross-Fertilize and Cross-Validate Data**  
+_Data Science Journal_ **19**(1)
+<https://doi.org/10.5334/dsj-2020-021>
+
+Nicole A. Vasilevsky, Mohammad Hosseini, Samantha Teplitzky, Violeta Ilik, Ehsan Mohammadi, Juliane Schneider, Barbara Kern, Julien Colomb, Scott C. Edmunds, Karen Gutzman, Daniel S. Himmelstein, Marijane White, Britton Smith, Lisa O’Keefe, Melissa Haendel, Kristi L. Holmes (2020):  
+**Is authorship sufficient for today’s collaborative research? A call for contributor roles**  
+_Accountability in Research_
+<https://doi.org/10.1080/08989621.2020.1779591>
 
 
 ### 2019
