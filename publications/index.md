@@ -114,6 +114,11 @@ Nicole A. Vasilevsky, Mohammad Hosseini, Samantha Teplitzky, Violeta Ilik, Ehsan
 _Accountability in Research_
 <https://doi.org/10.1080/08989621.2020.1779591>
 
+Maxwell Adam Levinson, Justin Niestroy, Sadnan Al Manir, Karen Fairchild, Douglas E. Lake, J. Randall Moorman, Timothy Clark (2020):
+**FAIRSCAPE: A Framework for FAIR and Reproducible Biomedical Analytics**
+_bioRxiv_ 2020.08.10.244947
+<https://doi.org/10.1101/2020.08.10.244947>
+
 
 ### 2019
 
