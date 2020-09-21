@@ -14,16 +14,17 @@ title: Workshop on Research Objects (RO2018)
   * [Introduction](#introduction)
   * [Topics](#topics)
   * [Contribution Submissions](#call)
-  * [Guide for submitting](/ro2018/submitting-to-ro2018/)
-  * Lightning talks, posters and demo
-  * Timeline
-  * [Schedule](/ro2018/ro2018-schedule/)
-  * [Proceedings and preprints](http://www.researchobject.org/ro2018/ro2018-proceedings/)
-  * Travel Bursary
-  * Programme Committee
-  * Workshop Organisers
+  * [Guide for submitting](submitting-to-ro2018/)
+  * [Lightning talks, posters and demo](#lightning-talks-posters-and-demo)
+  * [Timeline](#timeline)
+  * [Schedule](ro2018-schedule/)
+  * [Proceedings and preprints](ro2018-proceedings/)
+  * [Travel Bursary](#travel-bursary)
+  * [Programme Committee](#programme-committee)
+  * [Sponsors](#sponsors)
+  * [Workshop Organisers](#workshop-organisers)
 
-**Twitter** hashtags: `[#eScience2018](https://twitter.com/hashtag/eScience2018)` `[#ResearchObject](https://twitter.com/hashtag/ResearchObject)`  - some also used [#RO2018](https://twitter.com/hashtag/RO2018)
+**Twitter** hashtags: `[#eScience2018](https://twitter.com/hashtag/eScience2018)` `[#ResearchObject](https://twitter.com/hashtag/ResearchObject)` - some also used [#RO2018](https://twitter.com/hashtag/RO2018)
 
 The RO2018 workshop was on 29 Oct 2018 as [part](http://archive.is/y9rva) [archived 2019-05-10] of [IEEE eScience 2018](http://archive.is/X2PYb) [archived 2019-05-10] in Amsterdam, Netherlands. [Registration fees](http://archive.is/PoOOh) [archived 2019-05-10] applied.
 
