@@ -13,7 +13,7 @@ title: Workshop on Research Objects (RO2018)
 
   * [Introduction](#introduction)
   * [Topics](#topics)
-  * [Contribution Submissions](#call)
+  * [Contribution Submissions](#submitted-contributions)
   * [Guide for submitting](submitting-to-ro2018/)
   * [Lightning talks, posters and demo](#lightning-talks-posters-and-demo)
   * [Timeline](#timeline)
