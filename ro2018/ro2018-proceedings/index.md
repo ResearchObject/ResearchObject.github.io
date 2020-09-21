@@ -33,7 +33,7 @@ RO2018 encouraged _open peer review_, and recommend that reviewers are named an
 ## Published papers
 
 
-_Three short research papers were accepted for [talks](/ro2018/ro2018-schedule/) at RO2018 and have been published in the [IEEE eScience 2018](https://www.escience2018.com/page/442470) official [conference proceedings](https://ieeexplore.ieee.org/servlet/opac?punumber=1001511 )._
+_Three short research papers were accepted for [talks](/ro2018/ro2018-schedule/) at RO2018 and have been published in the [IEEE eScience 2018](http://archive.is/FxKe8) [archived 2019-08-01] official [conference proceedings](https://ieeexplore.ieee.org/servlet/opac?punumber=1001511) <https://doi.org/10.1109/e-Science43179.2018>._
 
 [Stian Soiland-Reyes](https://orcid.org/0000-0001-9842-9718) and [Marcos Cáceres](https://marcosc.com/) (2018): 
 ** The Archive and Package (arcp) URI scheme**
@@ -57,7 +57,7 @@ Preprint: <https://doi.org/10.24424/ro-id.J8MDSX693G> [[pdf](http://sandbox.roh
 Camera-ready: <https://doi.org/10.24424/ro-id.DBIMALEDRQ> [[pdf](http://sandbox.rohub.org/rodl/ROs/ROToolkit_ro2018-published/ROToolkit-ES-CR.pdf)] [[html .zip](http://sandbox.rohub.org/rodl/ROs/ROToolkit_ro2018-published/ROToolkit-ES-CR.zip)] [[research object](http://sandbox.rohub.org/rodl/ROs/ROToolkit_ro2018-published/)]
  
 
-Publications in the [IEEE eScience 2018 proceedings](https://ieeexplore.ieee.org/xpl/mostRecentIssue.jsp?punumber=8588285) will be [delayed open access](https://www.escience2018.com/page/442470) after one year. To encourage [Green Open Access](http://www.library.manchester.ac.uk/using-the-library/staff/research/services/open-access-at-manchester/understanding-open-access/#d.en.403436) before that we recommended paper authors post their _camera-ready version_ on [arXiv](https://arxiv.org/) or their institutional preprint server according to [IEEE's article sharing policies](https://ieeeauthorcenter.ieee.org/publish-with-ieee/author-education-resources/guidelines-and-policies/policy-posting-your-article/).
+Publications in the [IEEE eScience 2018 proceedings](https://ieeexplore.ieee.org/xpl/mostRecentIssue.jsp?punumber=8588285) will be [delayed open access](http://archive.is/FxKe8) [archived 2019-08-01] after one year. To encourage [Green Open Access](http://www.library.manchester.ac.uk/using-the-library/staff/research/services/open-access-at-manchester/understanding-open-access/#d.en.403436) before that we recommended paper authors post their _camera-ready version_ on [arXiv](https://arxiv.org/) or their institutional preprint server according to [IEEE's article sharing policies](https://ieeeauthorcenter.ieee.org/publish-with-ieee/author-education-resources/guidelines-and-policies/policy-posting-your-article/).
 
 
 ## Accepted for talks

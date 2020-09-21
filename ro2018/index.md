@@ -11,7 +11,7 @@ title: Workshop on Research Objects (RO2018)
 
 
 
-## _Workshop at [IEEE eScience 2018](https://www.escience2018.com/), Amsterdam, Netherlands_ (29 October 2018)
+## _Workshop at **IEEE eScience 2018**, Amsterdam, Netherlands_ (29 October 2018)
 
 
 
@@ -55,7 +55,7 @@ title: Workshop on Research Objects (RO2018)
 
 
 
-The RO2018 workshop was on 29 Oct 2018 as [part](https://www.escience2018.com/page/419754) of[ IEEE eScience 2018](https://www.escience2018.com/) in Amsterdam, Netherlands. [Registration fees](https://www.escience2018.com/page/419769) applied.
+The RO2018 workshop was on 29 Oct 2018 as [part](http://archive.is/y9rva) [archived 2019-05-10] of [IEEE eScience 2018](http://archive.is/X2PYb) [archived 2019-05-10] in Amsterdam, Netherlands. [Registration fees](http://archive.is/PoOOh) [archived 2019-05-10] applied.
 
 
 
@@ -94,7 +94,7 @@ The RO2018 workshop was on 29 Oct 2018 as [part](https://www.escience2018.com/pa
 
 
 **Date:** 29 Oct 2018, 08:30 - 17:30 CEST
-**Place:** Room Matterhorn I, [IEEE eScience 2018](https://www.escience2018.com/page/419715), [
+**Place:** Room Matterhorn I, [IEEE eScience 2018](http://archive.is/9XjXN) [archived 2019-05-10], [
 Mövenpick Hotel Amsterdam City Centre](https://www.movenpick.com/en/europe/netherlands/amsterdam/hotel-amsterdam/meetings/); Amsterdam
 **Program included:
 **
@@ -130,7 +130,7 @@ Mövenpick Hotel Amsterdam City Centre](https://www.movenpick.com/en/europe/neth
 
 
 For details on the accepted talks and keynotes, see the full [schedule for RO2018](http://www.researchobject.org/ro2018/ro2018-schedule/).
-See also the general [IEEE eScience program](https://www.escience2018.com/page/419705) for the rest of the conference that followed the workshop.
+See also the general [IEEE eScience program](http://archive.is/BQdFg) [archived 2019-05-10] for the rest of the conference that followed the workshop.
 
 
 ## Introduction
@@ -325,7 +325,7 @@ An informal demo and poster session will take place during the afternoon. Accept
 
 
 
-These RO2018 submission dates are separate from the[ eScience call](https://www.escience2018.com/page/419729) deadlines for the General eScience plenary sessions that follow the RO2018 workshop.
+These RO2018 submission dates are separate from the [eScience call](http://archive.is/PoOOh) [archived 2019-05-10] deadlines for the General eScience plenary sessions that follow the RO2018 workshop.
 
 
 **Extended early-bird deadline!**

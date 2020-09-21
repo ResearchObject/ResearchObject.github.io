@@ -14,7 +14,7 @@ This page describes how authors could submit to the [Workshop on Research Object
 
 tl;dr: Preprint (and additional resources) should be uploaded to the [RO Zenodo community](https://zenodo.org/deposit/new?c=ro).
 The Zenodo research object is submitted for review in [EasyChair](https://easychair.org/conferences/?conf=ro2018).
-Upon acceptance, the [RO2018 proceedings](http://www.researchobject.org/ro2018/ro2018-proceedings/) link to Green Open Access preprints/ROs in Zenodo, and DOI to papers accepted for the [IEEE eScience proceedings](https://www.escience2018.com/page/442470).
+Upon acceptance, the [RO2018 proceedings](http://www.researchobject.org/ro2018/ro2018-proceedings/) link to Green Open Access preprints/ROs in Zenodo, and DOI to papers accepted for the [IEEE eScience proceedings](http://archive.is/FxKe8) [archived 2019-08-01].
 
 
 
@@ -91,7 +91,7 @@ Submitted abstracts and articles can be in a range of open formats (e.g. HTML, e
 
 
 All accepted preprints will be published Open Access on the [RO2018 proceedings](http://www.researchobject.org/ro2018/ro2018-proceedings/). Unless indicated otherwise, the submitted preprint is assumed to be licensed [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/), and will, upon acceptance, be made available as Green Open Access on the [RO2018 website](http://www.researchobject.org/ro2018/ro2018-proceedings/) with DOI links to the Zenodo record (or other repository) and - if applicable - DOI for the published IEEE proceeding article.
-It is a requirement that at least one author of each accepted submission attends and presents at the RO2018 workshop and is registered through the [IEEE eScience 2018](https://www.escience2018.com/) system [Registration fees](https://www.escience2018.com/page/419769) applies.
+It is a requirement that at least one author of each accepted submission attends and presents at the RO2018 workshop and is registered through the [IEEE eScience 2018](http://archive.is/X2PYb) [archived 2019-05-10] system ~~[Registration fees](http://archive.is/PoOOh)~~ [archived 2019-05-10] applies.
 Submissions (or links to submissions) should be uploaded to the [RO Zenodo community](https://zenodo.org/deposit/new?c=ro) and submitted for review in[ EasyChair](https://easychair.org/conferences/?conf=ro2018). Open Peer Reviews will be published alongside the accepted contributions.
 For any questions, email the RO2018 Workshop Organizers at [ro2018@easychair.org](mailto:ro2018@easychair.org)
 
@@ -108,7 +108,7 @@ Accepted <del>abstracts and</del> articles will be included in the IEEE eScience
 
 Unless indicated otherwise, the submitted preprint is assumed to be licensed [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/), and will, upon acceptance, be made available as **Green Open Access** on the [RO2018 website](http://www.researchobject.org/ro2018/) with DOI links to the Zenodo record and (where applicable) DOI for the published IEEE proceeding article.
 RO2018 may reformat your preprint for web publishing.
-It is a requirement that **at least one author** of each accepted submission attends the RO2018 workshop and **registers using the [IEEE eScience 2018 system](https://www.escience2018.com/) (either for the workshop, or the whole conference)**. [Registration fees](https://www.escience2018.com/383877) applies, but a [travel bursary](/ro2018/#travel-bursary) is available.
+It is a requirement that **at least one author** of each accepted submission attends the RO2018 workshop and **registers using the [IEEE eScience 2018 system](http://archive.is/X2PYb) [archived 2019-05-10] (either for the workshop, or the whole conference)**. ~~[Registration fees](http://archive.is/PoOOh)~~ [archived 2019-05-10] applies, but a [travel bursary](/ro2018/#travel-bursary) is available.
 
 
 ## Submitting
