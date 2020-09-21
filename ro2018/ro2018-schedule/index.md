@@ -8,19 +8,14 @@ title: RO2018 schedule
 ---
 # Schedule for RO2018
 
-
 Schedule for [Workshop on Research Objects](http://researchobject.org/ro2018/) (RO2018) at [IEEE eScience 2018](http://archive.is/X2PYb) [archived 2019-05-10].
-
 
 **Date:** 29 Oct 2018, 08:30 – 17:30 CEST
 **Part of:** [IEEE eScience conference 2018](http://archive.is/y9rva) [archived 2019-08-10]
 **Place:** [Mövenpick Hotel Amsterdam City Centre](https://www.movenpick.com/en/europe/netherlands/amsterdam/hotel-amsterdam/meetings/); [Piet Heinkade 11;](https://www.google.com/maps/place/Piet+Heinkade+11,+1019+BR+Amsterdam,+Netherlands) Amsterdam
 **Room**: Matterhorn I
 
-
 **New: ** [Slides](https://www.dropbox.com/sh/i2060ctj1wzglax/AAAuiVDKaDFMOzwyYSQxw67ba?dl=0 ) available for most talks. [Collaborative notes]( https://goo.gl/C1ubw9) include comments and hyperlinks. See also [proceedings](http://www.researchobject.org/ro2018/ro2018-proceedings/) for corresponding articles/abstracts.
-
-
 
 
 <table width="608" > 
