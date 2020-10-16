@@ -171,7 +171,7 @@ Gil Alterovitz, Dennis A Dean II, Carole Goble, Michael R Crusoe, Stian Soiland-
 _PLOS Biology. **16**(12):e3000099_  
 [https://doi.org/10.1371/journal.pbio.3000099](https://doi.org/10.1371/journal.pbio.3000099) ([bioXriv:191783](https://doi.org/10.1101/191783))
 
-Joshua Borycz ,Bonnie Carroll (2018):  
+Joshua Borycz, Bonnie Carroll (2018):  
 **Managing Digital Research Objects in an Expanding Science Ecosystem: 2017 Conference Summary**  
 _Data Science Journal_ **17**, p16 [http://doi.org/10.5334/dsj-2018-016](http://doi.org/10.5334/dsj-2018-016)
 
@@ -268,10 +268,6 @@ Joachim Van Herwegen, Ruben Taelman, Sarven Capadisli, Ruben Verborgh (2017):
 Proceedings of the First [Workshop on Enabling Open Semantic Science](https://semsci.github.io/semSci2017/), _CEUR Workshop Proceedings_ [**1931**](http://ceur-ws.org/Vol-1931/) pp 23-30.  
 [http://ceur-ws.org/Vol-1931/paper-04.pdf](http://ceur-ws.org/Vol-1931/paper-04.pdf) [[html](https://linkedsoftwaredependencies.org/articles/describing-experiments/)] [[slides](https://www.slideshare.net/JoachimVH/describing-configurations-of-software-experiments-as-linked-data)]
 
-Joshua Borycz, Bonnie Carroll (2017):  
-**Managing Digital Research Objects in an Expanding Science Ecosystem: 2017 Conference Summary.**  
-_Data Science Journal_ **17**p16 
-[http://doi.org/10.5334/dsj-2018-016](http://doi.org/10.5334/dsj-2018-016)
 
 ### 2016
 
