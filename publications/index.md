@@ -195,6 +195,13 @@ _[https://doi.org/10.1109/eScience.2018.00018](https://doi.org/10.1109/eScience.
 ](https://doi.org/10.5281/zenodo.1313218)**_2018 IEEE 14th International Conference on e-Science (e-Science)  
 _[https://doi.org/10.1109/eScience.2018.00019](https://doi.org/10.1109/eScience.2018.00019) [[preprint](https://doi.org/10.5281/zenodo.1420531)] [[pdf](https://zenodo.org/record/1420531/files/mecum-dataone-reproducible-packages-2018.pdf?download=1)]
 
+Beatriz Pérez, Julio Rubio & Carlos Sáenz-Adán (2018): 
+**A systematic review of provenance systems** 
+_Knowledge Information Systems_ **57** pp 495–543 
+<https://doi.org/10.1007/s10115-018-1164-3>
+[[preprint](https://www.unirioja.es/cu/beperev/A_Systematic_Review_of_Provenance_Systems.pdf)]
+[[supplementary material](https://www.unirioja.es/cu/beperev/ResearchMethodAndLimitations.pdf)]
+
 ### 2017
 
 
