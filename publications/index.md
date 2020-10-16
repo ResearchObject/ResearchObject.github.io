@@ -15,7 +15,7 @@ title: Publications
 
 To reference _Research Objects_ in your work, please use the following citation:
 
-Sean Bechhofer, Iain Buchan, David De Roure, Paolo Missier, John Ainsworth, Jiten Bhagat, Phillip Couch, Don Cruickshank, Mark Delderfield, Ian Dunlop, Matthew Gamble, Danius Michaelides, Stuart Owen, David Newman, Shoaib Sufi, Carole Goble (2013)  
+Sean Bechhofer, Iain Buchan, David De Roure, Paolo Missier, John Ainsworth, Jiten Bhagat, Phillip Couch, Don Cruickshank, Mark Delderfield, Ian Dunlop, Matthew Gamble, Danius Michaelides, Stuart Owen, David Newman, Shoaib Sufi, Carole Goble (2013):  
 **Why Linked Data is Not Enough for Scientists**  
 _Future Generation Computer Systems_ **29**(2), February 2013, Pages 599-611, ISSN 0167-739X  
 <https://doi.org/10.1016/j.future.2011.08.004> [[preprint](http://users.ox.ac.uk/~oerc0033/preprints/research-objects.pdf)] [[ResearchGate](https://www.researchgate.net/publication/46411781_Why_Linked_Data_is_Not_Enough_for_Scientists)]
@@ -25,8 +25,16 @@ If you would like to cite the _Research Object model_, please use:
 Khalid Belhajjame, Jun Zhao, Daniel Garijo, Matthew Gamble, Kristina Hettne, Raul Palma, Eleni Mina,
 Oscar Corcho, José Manuel Gómez-Pérez, Sean Bechhofer, Graham Klyne, Carole Goble (2015):  
 **Using a suite of ontologies for preserving workflow-centric research objects**   
-_Journal of Web Semantics_ **32**
+_Journal of Web Semantics_ **32**  
 <https://doi.org/10.1016/j.websem.2015.01.003>
+
+To cite _RO-Crate_, please use:
+
+Eoghan Ó Carragáin; Carole Goble; Peter Sefton; Stian Soiland-Reyes (2019):  
+**A lightweight approach to research object data packaging**  
+_Bioinformatics Open Source Conference (BOSC2019)_  
+<https://doi.org/10.5281/zenodo.3250687>
+
 
 ## Related events/workshops
 
@@ -127,6 +135,11 @@ _2020 IEEE International Conference on Big Data and Smart Computing ([BigComp](h
 
 
 ### 2019
+
+Eoghan Ó Carragáin; Carole Goble; Peter Sefton; Stian Soiland-Reyes (2019):  
+**A lightweight approach to research object data packaging**  
+_Bioinformatics Open Source Conference (BOSC2019)_  
+<https://doi.org/10.5281/zenodo.3250687>
 
 Farah Zaib Khan, Stian Soiland-Reyes, Richard O. Sinnott, Andrew Lonie, Carole Goble, Michael R. Crusoe (2019):  
 [**Sharing interoperable workflow provenance: A review of best practices and their practical application in CWLProv**](https://doi.org/10.1093/gigascience/giz095).  
