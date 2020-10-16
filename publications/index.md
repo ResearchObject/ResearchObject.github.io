@@ -32,22 +32,22 @@ _Journal of Web Semantics_ **32**
 
 These events cover topics largely overlapping with research objects and modernizing scholarly communication.
 
-### 2020
+### 2020 events
 
 - ECCB 2020: [Workshop on FAIR Computational Workflows](https://eccb2020.info/ntbew01-workshop-on-fair-computational-workflows/)
 
-### 2019
+### 2019 events
 
-  * eScience 2019: [Workshop on Research Objects (RO2019)](https://www.researchobject.org/ro2019/) [[Proceedings](https://www.researchobject.org/ro2019/proceedings)] [[Presentations](https://www.researchobject.org/ro2019/schedule)]
+ * eScience 2019: [Workshop on Research Objects (RO2019)](https://www.researchobject.org/ro2019/) [[Proceedings](https://www.researchobject.org/ro2019/proceedings)] [[Presentations](https://www.researchobject.org/ro2019/schedule)]
  * BioCompute 2019: [Tools for Communicating Next Generation Sequencing Data and Analysis](https://biocomputeobject.org/2019-workshop.html)
 
-### 2018
+### 2018 events
 
  * eScience 2018: [Workshop on Research Objects (RO2018)](http://www.researchobject.org/ro2018/) ([Proceedings](http://www.researchobject.org/ro2018/ro2018-proceedings/), [presentations](http://www.researchobject.org/ro2018/ro2018-schedule/))
  * RDA 11th Plenary: [Approaches to Research Data Packaging](https://rd-alliance.org/approaches-research-data-packaging-rda-11th-plenary-bof-meeting) ([presentations](https://docs.google.com/document/d/1ZlfaDAgjyI1iLf5zHtMIdE4pUBpUvmEC11C6ZBmmd7s/edit?usp=sharing%C2%A0))
  * BioCompute 2018: [High-throughput Sequencing Computational Standards for Regulatory Sciences (HTS-CSRS)](https://hive.biochemistry.gwu.edu/htscsrs/workshop_2018)
 
-### 2017
+### 2017 events
 
  * NFAIS CENDI: [Managing Digital Objects in an Expanding Science Ecosystem](https://www.nfais.org/DROs) ([slides](https://www.rd-alliance.org/managing-digital-research-objects-expanding-science-ecosystem))
  * BioCompute 2017: [High-throughput Sequencing Computational Standards for Regulatory Sciences (HTS-CSRS)](https://hive.biochemistry.gwu.edu/htscsrs/workshop_2017_agenda)
@@ -65,18 +65,18 @@ Articles relevant to all aspects of Research Objects, and the future of scholarl
 ### 2020
 
 Jeremy Leipzig, Daniel Nüst, Charles Tapley Hoyt, Stian Soiland-Reyes, Karthik Ram, Jane Greenberg (2020):  
-**The role of metadata in reproducible computational research**  
+[**The role of metadata in reproducible computational research**](https://arxiv.org/pdf/2006.08589.pdf)  
 [arXiv:2006.08589](https://arxiv.org/abs/2006.08589) [[pdf](https://arxiv.org/pdf/2006.08589.pdf)]
 
-Kyle Chard, Niall Gaffney, Mihael Hategan, Kacper Kowalik, Bertram Ludaescher, Timothy McPhillips, Jarek Nabrzyski, Victoria Stodden, Ian Taylor, Thomas Thelen, Matthew J. Turk, Craig Willis(2020):  
-**Toward Enabling Reproducibility for Data-Intensive Research using the Whole Tale Platform**  
-_Advances in Parallel Computing 2020_
+Kyle Chard, Niall Gaffney, Mihael Hategan, Kacper Kowalik, Bertram Ludaescher, Timothy McPhillips, Jarek Nabrzyski, Victoria Stodden, Ian Taylor, Thomas Thelen, Matthew J. Turk, Craig Willis (2020):  
+[**Toward Enabling Reproducibility for Data-Intensive Research using the Whole Tale Platform**](http://ebooks.iospress.nl/Download/Pdf)  
+_Advances in Parallel Computing 2020_ 
 <https://doi.org/10.3233/APC200107>
 [preprint arXiv:2005.06087](https://arxiv.org/abs/2005.06087)
 
 Carole Goble, Sarah Cohen-Boulakia, Stian Soiland-Reyes, Daniel Garijo, Yolanda Gil, Michael R. Crusoe, Kristian Peters, Daniel Schober (2020):  
 [**FAIR Computational Workflows**](http://www.data-intelligence-journal.org/p/45/).  
-_Data Intelligence_  **2**(1):108–121
+_Data Intelligence_ **2**(1):108–121
 <https://doi.org/10.1162/dint_a_00033>
 
 Nick Juty, Sarala M. Wimalaratne, Stian Soiland-Reyes, John Kunze, Carole A. Goble, Tim Clark (2020):  
@@ -90,23 +90,22 @@ _Data Intelligence_ **2**(1):78–86
 <https://doi.org/10.1162/dint_a_00030>
 
 Stephanie Walton, Laurence Livermore, Olaf Bánki, Robert W. N. Cubey, Robyn Drinkwater, Markus Englund, Carole Goble, Quentin Groom, Christopher Kermorvant, Isabel Rey, Celia M Santos, Ben Scott, Alan R. Williams, Zhengzhe Wu (2020):  
-**Landscape Analysis for the Specimen Data Refinery**  
+[**Landscape Analysis for the Specimen Data Refinery**](https://doi.org/10.3897/rio.6.e57602)  
 _Research Ideas and Outcomes_ **6**:e57602
 <https://doi.org/10.3897/rio.6.e57602>
 
-
 Mirko Albani, Rosemarie Leone, Federica Foglini, Francesco De Leo, Fulvio Marelli, Iolanda Maggio (2020):  
-**EVER-EST: The Platform Allowing Scientists to Cross-Fertilize and Cross-Validate Data**  
+[**EVER-EST: The Platform Allowing Scientists to Cross-Fertilize and Cross-Validate Data**](https://doi.org/10.5334/dsj-2020-021)  
 _Data Science Journal_ **19**(1)
 <https://doi.org/10.5334/dsj-2020-021>
 
 Nicole A. Vasilevsky, Mohammad Hosseini, Samantha Teplitzky, Violeta Ilik, Ehsan Mohammadi, Juliane Schneider, Barbara Kern, Julien Colomb, Scott C. Edmunds, Karen Gutzman, Daniel S. Himmelstein, Marijane White, Britton Smith, Lisa O’Keefe, Melissa Haendel, Kristi L. Holmes (2020):  
-**Is authorship sufficient for today’s collaborative research? A call for contributor roles**  
+[**Is authorship sufficient for today’s collaborative research? A call for contributor roles**](https://doi.org/10.1080/08989621.2020.1779591)  
 _Accountability in Research_
 <https://doi.org/10.1080/08989621.2020.1779591>
 
-Maxwell Adam Levinson, Justin Niestroy, Sadnan Al Manir, Karen Fairchild, Douglas E. Lake, J. Randall Moorman, Timothy Clark (2020):
-**FAIRSCAPE: A Framework for FAIR and Reproducible Biomedical Analytics**
+Maxwell Adam Levinson, Justin Niestroy, Sadnan Al Manir, Karen Fairchild, Douglas E. Lake, J. Randall Moorman, Timothy Clark (2020):  
+[**FAIRSCAPE: A Framework for FAIR and Reproducible Biomedical Analytics**](https://doi.org/10.1101/2020.08.10.244947)  
 _bioRxiv_ 2020.08.10.244947
 <https://doi.org/10.1101/2020.08.10.244947>
 
@@ -131,8 +130,8 @@ _2020 IEEE International Conference on Big Data and Smart Computing ([BigComp](h
 
 Farah Zaib Khan, Stian Soiland-Reyes, Richard O. Sinnott, Andrew Lonie, Carole Goble, Michael R. Crusoe (2019):  
 [**Sharing interoperable workflow provenance: A review of best practices and their practical application in CWLProv**](https://doi.org/10.1093/gigascience/giz095).  
-_GigaScience_ **8**(11):giz095  
-[https://doi.org/10.1093/gigascience/giz095](https://doi.org/10.1093/gigascience/giz095)
+_GigaScience_ **8**(11):giz095
+<https://doi.org/10.1093/gigascience/giz095>
 
 Carole Goble, Sarah Cohen-Boulakia, Stian Soiland-Reyes, Daniel Garijo, Yolanda Gil, Michael R. Crusoe, Kristian Peters, Daniel Schober (2019):  
 [**FAIR Computational Workflows**](http://www.data-intelligence-journal.org/p/45/).  
@@ -145,24 +144,24 @@ _Data Intelligence_ **2**(1):78–86 [https://doi.org/10.1162/dint_a_00030](http
 Katrina Fenlon (2019):  
 [**Interactivity, Distributed Workflows, and Thick Provenance: A Review of Challenges Confronting Digital Humanities Research Objects**](https://doi.org/10.5281/zenodo.3459770).  
 RO-2 at _Workshop on Research Objects (RO 2019), 24 Sept 2019, San Diego, CA, USA._  
-To appear in _2019 IEEE 14th International Conference on e-Science (e-Science)_, pp. 510–513.  
-[https://doi.org/10.1109/eScience.2019.00067](https://doi.org/10.1109/eScience.2019.00067) (_in print_) [[preprint](https://doi.org/10.5281/zenodo.3268809)]
+_2019 IEEE 14th International Conference on e-Science (e-Science)_, pp. 510–513.  
+<https://doi.org/10.1109/eScience.2019.00067> [[preprint](https://doi.org/10.5281/zenodo.3268809)]
 
 Kyle Chard, Niall Gaffney, Matthew B. Jones, Kacper Kowalik, Bertram Ludäscher, Jarek Nabrzyski, Victoria Stodden, Ian Taylor, Thomas Thelen, Matthew J. Turk, Craig Willis (2019):  
 [**Application of BagIt-Serialized Research Object Bundles for Packaging and Re-execution of Computational Analyses**](https://doi.org/10.5281/zenodo.3381754).  
 RO-5 at _Workshop on Research Objects (RO 2019), 24 Sept 2019, San Diego, CA, USA._  
-To appear in _2019 IEEE 15th International Conference on e-Science (e-Science)_, pp. 514–521.  
-[https://doi.org/10.1109/eScience.2019.00068](https://doi.org/10.1109/eScience.2019.00068) (_in print_) [[preprint](https://doi.org/10.5281/zenodo.3381754)] [[BDBag](https://zenodo.org/record/3381754/files/5cb4ffead9323600016c4d4c.zip?download=1)]
+_2019 IEEE 15th International Conference on e-Science (e-Science)_, pp. 514–521.  
+<https://doi.org/10.1109/eScience.2019.00068> [[preprint](https://doi.org/10.5281/zenodo.3381754)] [[BDBag](https://zenodo.org/record/3381754/files/5cb4ffead9323600016c4d4c.zip?download=1)]
 
-Katrina Fenlon (2019):**  
-[Modeling Digital Humanities Collections as Research Objects](https://doi.org/10.17613/jmns-kr78)**  
+Katrina Fenlon (2019): 
+[**Modeling Digital Humanities Collections as Research Objects**](https://doi.org/10.17613/jmns-kr78)  
 _2019 ACM/IEEE Joint Conference on Digital Libraries (JCDL)_.  
-[https://doi.org/10.1109/JCDL.2019.00029 [](https://doi.org/10.1109/JCDL.2019.00029)[preprint](https://doi.org/10.17613/jmns-kr78)]
+<https://doi.org/10.1109/JCDL.2019.00029> [preprint](https://doi.org/10.17613/jmns-kr78)]
 
 Ravi K Madduri, Kyle Chard, Mike D’Arcy, Segun C Jung, Alexis Rodriguez, Dinanath Sulakhe, Eric W Deutsch, Cory Funk, Ben Heavner, Matthew Richards, Paul Shannon, Ivo Dinov, Gustavo Glusman, Nathan Price, John D Van Horn, Carl Kesselman, Arthur W Toga, Ian Foster (2018):  
 [**Reproducible big data science: A case study in continuous FAIRness**](https://doi.org/10.1371/journal.pone.0213013 ).  
 _PLoS ONE_. **14**(4):e0213013  
-[https://doi.org/10.1371/journal.pone.0213013](https://doi.org/10.1371/journal.pone.0213013) ([_bioXriv_ 268755](https://doi.org/10.1101/268755))  
+<https://doi.org/10.1371/journal.pone.0213013> [preprint [_bioXriv_ 268755](https://doi.org/10.1101/268755)]
 Data as BDBag: [https://doi.org/10.6084/m9.figshare.5924077.v1](https://doi.org/10.6084/m9.figshare.5924077.v1)
 
 ### 2018
@@ -176,76 +175,103 @@ Joshua Borycz ,Bonnie Carroll (2018):
 **Managing Digital Research Objects in an Expanding Science Ecosystem: 2017 Conference Summary**  
 _Data Science Journal_ **17**, p16 [http://doi.org/10.5334/dsj-2018-016](http://doi.org/10.5334/dsj-2018-016)
 
-Zhihao Yuan, Dai Hai Ton That, Siddhant Kothari, Gabriel Fils, Tanu Malik (2018):**  
-Utilizing Provenance in Reusable Research Objects**.  
+Zhihao Yuan, Dai Hai Ton That, Siddhant Kothari, Gabriel Fils, Tanu Malik (2018): 
+**Utilizing Provenance in Reusable Research Objects**  
 _Informatics_ **5**(14).  
 [https://doi.org/10.3390/informatics5010014](https://doi.org/10.3390/informatics5010014 "Utilizing Provenance in Reusable Research Objects")
 
 Raul Palma, Andrés García-Silva, Jose Manuel Gomez-Perez, Marcin Krystek (2018):  
-**A Research Object-based Toolkit to Support the Earth Science Research Lifecycle**._2018 IEEE 14th International Conference on e-Science (e-Science)  
-_[https://doi.org/10.1109/eScience.2018.00020](https://doi.org/10.1109/eScience.2018.00020) [[preprint](https://doi.org/10.24424/ro-id.DBIMALEDRQ)] [[pdf](http://sandbox.rohub.org/rodl/ROs/ROToolkit_ro2018-published/ROToolkit-ES-CR.pdf)] [[html .zip](http://sandbox.rohub.org/rodl/ROs/ROToolkit_ro2018-published/ROToolkit-ES-CR.zip)] [[research object](http://sandbox.rohub.org/rodl/ROs/ROToolkit_ro2018-published/)]  
+**A Research Object-based Toolkit to Support the Earth Science Research Lifecycle**.  
+_2018 IEEE 14th International Conference on e-Science (e-Science)_  
+<https://doi.org/10.1109/eScience.2018.00020> [[preprint](https://doi.org/10.24424/ro-id.DBIMALEDRQ)] [[pdf](http://sandbox.rohub.org/rodl/ROs/ROToolkit_ro2018-published/ROToolkit-ES-CR.pdf)] [[html .zip](http://sandbox.rohub.org/rodl/ROs/ROToolkit_ro2018-published/ROToolkit-ES-CR.zip)] [[research object](http://sandbox.rohub.org/rodl/ROs/ROToolkit_ro2018-published/)]  
 
 [Stian Soiland-Reyes](https://orcid.org/0000-0001-9842-9718 "orcid.org/0000-0001-9842-9718"), [Marcos Cáceres](https://marcosc.com/) (2018):  
 **The Archive and Package (arcp) URI scheme**.  
-_2018 IEEE 14th International Conference on e-Science (e-Science)  
-_[https://doi.org/10.1109/eScience.2018.00018](https://doi.org/10.1109/eScience.2018.00018) [[preprint](https://arxiv.org/abs/1809.06935)] [[html](http://s11.no/2018/arcp.html)] [[pdf](https://zenodo.org/record/1320264/files/arcp.pdf?download=1)] [[research object](http://s11.no/2018/arcp.html#ro)]
+_2018 IEEE 14th International Conference on e-Science (e-Science)_ 
+<https://doi.org/10.1109/eScience.2018.00018> [[preprint](https://arxiv.org/abs/1809.06935)] [[html](http://s11.no/2018/arcp.html)] [[pdf](https://zenodo.org/record/1320264/files/arcp.pdf?download=1)] [[research object](http://s11.no/2018/arcp.html#ro)]
 
 [Bryce Mecum](http://orcid.org/0000-0002-0381-3766 "orcid.org/0000-0002-0381-3766"), [Matthew Jones](https://orcid.org/0000-0003-0077-4738 "orcid.org/0000-0003-0077-4738"), [Dave Vieglais](https://orcid.org/0000-0002-6513-4996 "orcid.org/0000-0002-6513-4996"), [Craig Willis](https://orcid.org/0000-0002-6148-7196 "orcid.org/0000-0002-6148-7196") (2018):  
-**Preserving Reproducibility: Provenance and Executable Containers in DataONE Data Packages**.**[  
-](https://doi.org/10.5281/zenodo.1313218)**_2018 IEEE 14th International Conference on e-Science (e-Science)  
-_[https://doi.org/10.1109/eScience.2018.00019](https://doi.org/10.1109/eScience.2018.00019) [[preprint](https://doi.org/10.5281/zenodo.1420531)] [[pdf](https://zenodo.org/record/1420531/files/mecum-dataone-reproducible-packages-2018.pdf?download=1)]
+**Preserving Reproducibility: Provenance and Executable Containers in DataONE Data Packages**.  
+_2018 IEEE 14th International Conference on e-Science (e-Science)_
+<https://doi.org/10.1109/eScience.2018.00019> [[preprint](https://doi.org/10.5281/zenodo.1420531)] [[pdf](https://zenodo.org/record/1420531/files/mecum-dataone-reproducible-packages-2018.pdf?download=1)]
 
-Beatriz Pérez, Julio Rubio & Carlos Sáenz-Adán (2018): 
-**A systematic review of provenance systems** 
-_Knowledge Information Systems_ **57** pp 495–543 
+Beatriz Pérez, Julio Rubio & Carlos Sáenz-Adán (2018):  
+**A systematic review of provenance systems**  
+_Knowledge Information Systems_ **57** pp 495–543  
 <https://doi.org/10.1007/s10115-018-1164-3>
 [[preprint](https://www.unirioja.es/cu/beperev/A_Systematic_Review_of_Provenance_Systems.pdf)]
 [[supplementary material](https://www.unirioja.es/cu/beperev/ResearchMethodAndLimitations.pdf)]
 
 ### 2017
 
-
-Mark D. Wilkinson​, Ruben Verborgh, Luiz Olavo Bonino da Silva Santos, Tim Clark,, Morris A. Swertz, Fleur D.L. Kelpin, Alasdair J.G. Gray, Erik A. Schultes, Erik M. van Mulligen, Paolo Ciccarese, Arnold Kuzniar, Anand Gavai, Mark Thompson, Rajaram Kaliyaperumal, Jerven T. Bolleman, Michel Dumontier (2017):
-**Interoperability and FAIRness through a novel combination of Web technologies**
+Mark D. Wilkinson​, Ruben Verborgh, Luiz Olavo Bonino da Silva Santos, Tim Clark, Morris A. Swertz, Fleur D.L. Kelpin, Alasdair J.G. Gray, Erik A. Schultes, Erik M. van Mulligen, Paolo Ciccarese, Arnold Kuzniar, Anand Gavai, Mark Thompson, Rajaram Kaliyaperumal, Jerven T. Bolleman, Michel Dumontier (2017):  
+**Interoperability and FAIRness through a novel combination of Web technologies**  
 _PeerJ Computer Science_ **3**:e110
 <https://doi.org/10.7717/peerj-cs.110>
 
-Tobias Kuhn, Michel Dumontier (2017): **Genuine semantic publishing.** _Data Science_, **1(**1-2) [https://doi.org/10.3233/DS-170010](https://doi.org/10.3233/DS-170010)
+Tobias Kuhn, Michel Dumontier (2017):  
+**Genuine semantic publishing.**  
+_Data Science_, **1**(1-2) <https://doi.org/10.3233/DS-170010>
 
-Jose Manuel Gomez-Perez, Raul Palma, Andres Garcia-Silva (2017): **Towards a Human-Machine Scientific Partnership Based on Semantically Rich Research Objects**. _IEEE 13th International Conference on e-Science ([e-Science 2017](http://escience2017.org.nz/programme/))._  
-[https://doi.org/10.1109/eScience.2017.40](https://doi.org/10.1109/eScience.2017.40) [[preprint](http://sandbox.rohub.org/rodl/ROs/experiences-escience-2017/preprint.pdf)] [[research object](http://sandbox.rohub.org/rodl/ROs/experiences-escience-2017/)]
+Jose Manuel Gomez-Perez, Raul Palma, Andres Garcia-Silva (2017):  
+**Towards a Human-Machine Scientific Partnership Based on Semantically Rich Research Objects**.  
+_IEEE 13th International Conference on e-Science ([e-Science 2017](http://escience2017.org.nz/programme/))._  
+<https://doi.org/10.1109/eScience.2017.40> [[preprint](http://sandbox.rohub.org/rodl/ROs/experiences-escience-2017/preprint.pdf)] [[research object](http://sandbox.rohub.org/rodl/ROs/experiences-escience-2017/)]
 
-Andres Garcia-Silva, Raul Palma, Jose Manuel Gomez-Perez (2017): **Ensuring the Quality of Research Objects in the Earth Science Domain**. _IEEE 13th International Conference on e-Science ([e-Science 2017](http://escience2017.org.nz/programme/))._  
-[https://doi.org/10.1109/eScience.2017.62](https://doi.org/10.1109/eScience.2017.62) [[researchgate](https://www.researchgate.net/publication /321120411_Ensuring_the_Quality_of_Research_Objects_in_the_Earth_Science_Domain)]
+Andres Garcia-Silva, Raul Palma, Jose Manuel Gomez-Perez (2017):  
+**Ensuring the Quality of Research Objects in the Earth Science Domain**. 
+_IEEE 13th International Conference on e-Science ([e-Science 2017](http://escience2017.org.nz/programme/))._  
+<https://doi.org/10.1109/eScience.2017.62> [[researchgate](https://www.researchgate.net/publication /321120411_Ensuring_the_Quality_of_Research_Objects_in_the_Earth_Science_Domain)]
 
-Andres Garcia-Silva, Raul Palma, Jose Manuel Gomez-Perez (2017): **Semantic Technologies and Text Analysis in Support of Scientific Knowledge Reuse**. _IEEE 13th International Conference on e-Science ([e-Science 2017](http://escience2017.org.nz/programme/))_  
-[https://doi.org/10.1109/eScience.2017.68](https://doi.org/10.1109/eScience.2017.68) [[ResearchGate](https://www.researchgate.net/publication/321124468_Semantic_Technologies_and_Text_Analysis_in_Support_of_Scientific_Knowledge_Reuse)] **no Open Access preprint available?**
+Andres Garcia-Silva, Raul Palma, Jose Manuel Gomez-Perez (2017):  
+**Semantic Technologies and Text Analysis in Support of Scientific Knowledge Reuse**.  
+_IEEE 13th International Conference on e-Science ([e-Science 2017](http://escience2017.org.nz/programme/))_  
+<https://doi.org/10.1109/eScience.2017.68> [[ResearchGate](https://www.researchgate.net/publication/321124468_Semantic_Technologies_and_Text_Analysis_in_Support_of_Scientific_Knowledge_Reuse)] **no Open Access preprint available?**
 
-Dai Hai Ton That, Gabriel Fils, Zhihao Yuan, Tanu Malik (2017): **Sciunits: Reusable Research Objects**. _IEEE 13th International Conference on e-Science ([e-Science 2017](http://escience2017.org.nz/programme/))._  
-[https://doi.org/10.1109/eScience.2017.51](https://doi.org/10.1109/eScience.2017.51) [[arXiv:1707.05731](https://arxiv.org/abs/1707.05731)] [[preprint](https://arxiv.org/pdf/1707.05731)] [[slides](https://www.slideshare.net/TanuMalik/sciunits-resuable-research-object)]
+Dai Hai Ton That, Gabriel Fils, Zhihao Yuan, Tanu Malik (2017):  
+**Sciunits: Reusable Research Objects**.  
+_IEEE 13th International Conference on e-Science ([e-Science 2017](http://escience2017.org.nz/programme/))._  
+<https://doi.org/10.1109/eScience.2017.51> [[arXiv:1707.05731](https://arxiv.org/abs/1707.05731)] [[preprint](https://arxiv.org/pdf/1707.05731)] [[slides](https://www.slideshare.net/TanuMalik/sciunits-resuable-research-object)]
 
-André Giesler, Myriam Czekala, Björn Hagemeier, Richard Grunzke (2017): **UniProv: A Flexible Provenance Tracking System for UNICORE**. In: JHPCS 2016: High-Performance Scientific Computing, _Lecture Notes in Computer Science_ **10164** pp 233-242.  
-[https://doi.org/10.1007/978-3-319-53862-4_20](https://doi.org/10.1007/978-3-319-53862-4_20) [[ResearchGate](https://www.researchgate.net/publication/313841325_UniProv_A_Flexible_Provenance_Tracking_System_for_UNICORE)] **No Open Access preprint available?**
+André Giesler, Myriam Czekala, Björn Hagemeier, Richard Grunzke (2017):  
+**UniProv: A Flexible Provenance Tracking System for UNICORE**.  
+_JHPCS 2016: High-Performance Scientific Computing_, _Lecture Notes in Computer Science_ **10164** pp 233-242.  
+<https://doi.org/10.1007/978-3-319-53862-4_20> [[ResearchGate](https://www.researchgate.net/publication/313841325_UniProv_A_Flexible_Provenance_Tracking_System_for_UNICORE)] **No Open Access preprint available?**
 
-Scott C Edmunds, Peter Li, Christopher I Hunter, Si Zhe Xiao, Robert L Davidson, Nicole Nogoy, Laurie Goodman (2017): **Experiences in integrated data and research object publishing using GigaDB**. _International Journal on Digital Libraries_ **18**(99).  
+Scott C Edmunds, Peter Li, Christopher I Hunter, Si Zhe Xiao, Robert L Davidson, Nicole Nogoy, Laurie Goodman (2017):  
+**Experiences in integrated data and research object publishing using GigaDB**.  
+ _International Journal on Digital Libraries_ **18**(99)  
 [https://doi.org/10.1007/s00799-016-0174-6](https://doi.org/10.1007/s00799-016-0174-6)
 
-Markus Stocker (2017): **From Data to Machine Readable Information Aggregated in Research Objects**. _D-Lib Magazine_ **23**(1/2).  
+Markus Stocker (2017):  
+**From Data to Machine Readable Information Aggregated in Research Objects**.  
+_D-Lib Magazine_ **23**(1/2).  
 [https://doi.org/10.1045/january2017-stocker](https://doi.org/10.1045/january2017-stocker)
 
-Sarah Cohen-Boulakia, Khalid Belhajjame, Olivier Collin, Jérôme Chopard, Christine Froidevaux, Alban Gaignard, Konrad Hinsen, Pierre Larmande, Yvan Le Bras, Frédéric Lemoine, Fabien Mareuil, Hervé Ménager, Christophe Pradal, Christophe Blancheto (2017): **Scientific workflows for computational reproducibility in the life sciences: Status, challenges and opportunities.** _Future Generation Computer Systems_ (Available online 6 January 2017).  
+Sarah Cohen-Boulakia, Khalid Belhajjame, Olivier Collin, Jérôme Chopard, Christine Froidevaux, Alban Gaignard, Konrad Hinsen, Pierre Larmande, Yvan Le Bras, Frédéric Lemoine, Fabien Mareuil, Hervé Ménager, Christophe Pradal, Christophe Blancheto (2017):  
+**Scientific workflows for computational reproducibility in the life sciences: Status, challenges and opportunities.**  
+_Future Generation Computer Systems_ (Available online 6 January 2017).  
 [https://doi.org/10.1016/j.future.2017.01.012](https://doi.org/10.1016/j.future.2017.01.012) [[preprint](https://hal.archives-ouvertes.fr/hal-01516082/document)] [[preprint server](https://hal.archives-ouvertes.fr/hal-01516082)]
 
-Daniel Nüst, Markus Konkol, Marc Schutzeichel, Edzer Pebesma, Christian Kray, Holger Przibytzin, Jörg Lorenz (2017): **Opening the Publication Process with Executable Research Compendia.** _D-Lib Magazine_ **23**(1/2).  
+Daniel Nüst, Markus Konkol, Marc Schutzeichel, Edzer Pebesma, Christian Kray, Holger Przibytzin, Jörg Lorenz (2017):  
+**Opening the Publication Process with Executable Research Compendia.**  
+_D-Lib Magazine_ **23**(1/2).  
 [https://doi.org/10.1045/january2017-nuest](https://doi.org/10.1045/january2017-nuest)
 
-Tomasz Miksa, Andreas Rauber (2017): **Using ontologies for verification and validation of workflow-based experiments**. _Web Semantics: Science, Services and Agents on the World Wide Web_ **43** March 2017, pages 25–45.  
+Tomasz Miksa, Andreas Rauber (2017):  
+**Using ontologies for verification and validation of workflow-based experiments**.  
+_Web Semantics: Science, Services and Agents on the World Wide Web_ **43** March 2017, pages 25–45.  
 [https://doi.org/10.1016/j.websem.2017.01.002](https://doi.org/10.1016/j.websem.2017.01.002) [[preprint]](http://www.websemanticsjournal.org/index.php/ps/article/view/488/504)
 
-Joachim Van Herwegen, Ruben Taelman, Sarven Capadisli, Ruben Verborgh (2017): **Describing Configurations of Software Experiments as Linked Data**.Proceedings of the First [Workshop on Enabling Open Semantic Science](https://semsci.github.io/semSci2017/). _<span style="color: #363636;">CEUR Workshop Proceedings</span>_ [**1931**](http://ceur-ws.org/Vol-1931/) pp 23-30.  
+Joachim Van Herwegen, Ruben Taelman, Sarven Capadisli, Ruben Verborgh (2017):  
+**Describing Configurations of Software Experiments as Linked Data**.  
+Proceedings of the First [Workshop on Enabling Open Semantic Science](https://semsci.github.io/semSci2017/), _CEUR Workshop Proceedings_ [**1931**](http://ceur-ws.org/Vol-1931/) pp 23-30.  
 [http://ceur-ws.org/Vol-1931/paper-04.pdf](http://ceur-ws.org/Vol-1931/paper-04.pdf) [[html](https://linkedsoftwaredependencies.org/articles/describing-experiments/)] [[slides](https://www.slideshare.net/JoachimVH/describing-configurations-of-software-experiments-as-linked-data)]
 
-Joshua Borycz, Bonnie Carroll (2017): **Managing Digital Research Objects in an Expanding Science Ecosystem: 2017 Conference Summary.** _Data Science Journal_ **17**p16 [http://doi.org/10.5334/dsj-2018-016](http://doi.org/10.5334/dsj-2018-016)
+Joshua Borycz, Bonnie Carroll (2017):  
+**Managing Digital Research Objects in an Expanding Science Ecosystem: 2017 Conference Summary.**  
+_Data Science Journal_ **17**p16 
+[http://doi.org/10.5334/dsj-2018-016](http://doi.org/10.5334/dsj-2018-016)
 
 ### 2016
 
