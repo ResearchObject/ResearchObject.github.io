@@ -457,7 +457,7 @@ J Kunze (2003) **Towards electronic persistence using ARK identifiers**, Retriev
 ### 1992
 
 Jon F. Claerbout,  Martin Karrenbach (1992): **Electronic documents give reproducible research a new meaning**, _SEG Technical Program Expanded Abstracts 1992_ **11**(1), pp. 601–604, 
-<https://doi.org/10.1190/1.1822162>
+<https://doi.org/10.1190/1.1822162> [[pdf](https://chiselinc.github.io/assets/pdfs/reproducibility.pdf)]
 
 
 ### 1945
