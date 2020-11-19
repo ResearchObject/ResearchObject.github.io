@@ -450,11 +450,15 @@ Brian Caruso, Brian J. Lowe, Jon Corson-Rikert, Medha Devare (2006) **VIVO: Case
 
 Norman Paskin (2005) **Digital Object Identifiers for scientific data**, Data Science Journal 4, p. 12-20, [https://doi.org/10.2481/dsj.4.12](https://doi.org/10.2481/dsj.4.12)
 
-JF Claerbout, M Karrenbach (2005) **Electronic documents give reproducible research a new meaning**, _SEG Technical Program Expanded Abstracts_ **11**(1), p. 601, [url](http://link.aip.org/link/?SEGEAB/11/601/1)
-
 ### 2003
 
 J Kunze (2003) **Towards electronic persistence using ARK identifiers**, Retrieved November, p. 1-9, [pdf](http://pid.ndk.cz/dokumenty/zakladni-literatura/arkcdl.pdf)
+
+### 1992
+
+Jon F. Claerbout,  Martin Karrenbach (1992): **Electronic documents give reproducible research a new meaning**, _SEG Technical Program Expanded Abstracts 1992_ **11**(1), pp. 601–604, 
+<https://doi.org/10.1190/1.1822162>
+
 
 ### 1945
 
