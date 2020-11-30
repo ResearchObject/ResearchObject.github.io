@@ -5,7 +5,7 @@
 
 [RO-Crate](https://w3id.org/ro/crate) has been developed as a schema.org-based JSON [lightweight approach](https://researchobject.github.io/ro-crate/background) to the next generation Research Object serialization.
 
-**2019-11-05:** The specification [RO-Crate 1.0](https://w3id.org/ro/crate/1.0) has been released. Join the [community](https://researchobject.github.io/ro-crate/#contribute) to help further develop RO-Crate!
+**2020-10-30:** The specification [RO-Crate 1.1](https://w3id.org/ro/crate/1.1) has been released. Join the [community](https://www.researchobject.org/ro-crate/community) to help further develop RO-Crate!
 
 # Workshop on Research Objects (RO2019)
 
