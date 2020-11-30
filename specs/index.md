@@ -33,17 +33,17 @@ their respective strengths, but also to draw on lessons learned from those
 projects and similar research data packaging efforts. For more details, see
 [RO-Crate background](/ro-crate/background/).
 
-The [RO-Crate specification](https://w3id.org/ro/crate/1.0) details how to
+The [RO-Crate specification](https://w3id.org/ro/crate/1.1) details how to
 capture a set of files and resources as a dataset with associated metadata –
 including contextual entities like people, organizations, publishers, funding,
 licensing, provenance, workflows, geographical places, subjects and
 repositories.
 
-A growing list of [RO-Crate tools and libraries](/ro-crate/#how-can-i-use-it)
+A growing list of [RO-Crate tools and libraries](/ro-crate/implementations.html)
 simplify creation and consumption of RO-Crates, including the graphical
 interface [Describo](https://uts-eresearch.github.io/describo/).
 
-Join the [RO-Crate community](/ro-crate/#contribute) to help shape the
+Join the [RO-Crate community](/ro-crate/community.html) to help shape the
 specification or get help with using it!
 
 
