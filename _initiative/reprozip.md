@@ -13,7 +13,7 @@ tags:
 - Reproducibility
 - Stealth
 ---
-[Reprozip](https://www.reprozip.org/) is a project led by Prof. Juliana Freire at NYU, to develop a tool that makes it easier for authors to publish reproducible results and for reviewers to validate these results.
+[ReproZip](https://www.reprozip.org/) is a project led by Prof. Juliana Freire at NYU, to develop a tool that makes it easier for authors to publish reproducible results and for reviewers to validate these results.
 
 By tracking operating system calls, ReproZip systematically captures detailed provenance of existing experiments, including data dependencies, libraries used, and conﬁguration parameters. This information is combined into a package that can be installed and run on a different environment.
 
