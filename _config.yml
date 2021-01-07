@@ -24,9 +24,8 @@ plugins:
 
 
 logo: /images/logo.png
-avatar: /images/logo.png
 round-avatar: false
-#title-img: /images/logo.png
+title-img: /images/logo.png
 
 navbar-links:
   Overview: "overview"
