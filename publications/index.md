@@ -18,7 +18,7 @@ To reference _Research Objects_ in your work, please use the following citation:
 Sean Bechhofer, Iain Buchan, David De Roure, Paolo Missier, John Ainsworth, Jiten Bhagat, Phillip Couch, Don Cruickshank, Mark Delderfield, Ian Dunlop, Matthew Gamble, Danius Michaelides, Stuart Owen, David Newman, Shoaib Sufi, Carole Goble (2013):  
 **Why Linked Data is Not Enough for Scientists**  
 _Future Generation Computer Systems_ **29**(2), February 2013, Pages 599-611, ISSN 0167-739X  
-<https://doi.org/10.1016/j.future.2011.08.004> [[preprint](http://users.ox.ac.uk/~oerc0033/preprints/research-objects.pdf)] [[ResearchGate](https://www.researchgate.net/publication/46411781_Why_Linked_Data_is_Not_Enough_for_Scientists)]
+<https://doi.org/10.1016/j.future.2011.08.004> [[pdf](http://users.ox.ac.uk/~oerc0033/preprints/research-objects.pdf)] [[preprint](https://www.research.manchester.ac.uk/portal/en/publications/why-linked-data-is-not-enough-for-scientists(394d2487-5598-4e1e-a0c1-d67ad65d7947).html)]
 
 If you would like to cite the _Research Object model_, please use:
 
