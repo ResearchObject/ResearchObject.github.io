@@ -78,6 +78,11 @@ Stian Soiland-Reyes, Peter Sefton, Mercè Crosas, Leyla Jael Castro, Frederik Co
 [arXiv:2108.06503v1](https://arxiv.org/abs/arXiv:2108.06503v1) [cs.DL]
 <https://doi.org/10.5281/zenodo.5146228> 
 
+Krzysztof Kurowski, Oscar Corcho, Christine Choirat, Magnus Eriksson, Frederik Coppens, Mark van de Sanden, Milan Ojsteršek (2021):  
+[**EOSC Interoperability Framework**](https://op.europa.eu/flexpaper/common/view.jsp?doc=d787ea54-6a87-11eb-aeb5-01aa75ed71a1.en.PDF.pdf&format=pdf).  
+KI-02-21-055-EN-N. Report from the EOSC Executive Board, Working Groups FAIR and Architecture. _Publications Office of the EU_.  
+<https://doi.org/10.2777/620649>
+
 Jeremy Leipzig, Daniel Nüst, Charles Tapley Hoyt, Karthik Ram, Jane Greenberg (2021):  
 [**The role of metadata in reproducible computational research**](https://arxiv.org/pdf/2006.08589.pdf)  
 _Patterns_ **2**(1):100322
