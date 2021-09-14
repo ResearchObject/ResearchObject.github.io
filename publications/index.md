@@ -13,14 +13,14 @@ title: Publications
 ## Cite Us
 
 
-To reference _Research Objects_ in your work, please use the following citation:
+To reference _Research Objects_ as a concept in your work, please use the following citation:
 
 Sean Bechhofer, Iain Buchan, David De Roure, Paolo Missier, John Ainsworth, Jiten Bhagat, Phillip Couch, Don Cruickshank, Mark Delderfield, Ian Dunlop, Matthew Gamble, Danius Michaelides, Stuart Owen, David Newman, Shoaib Sufi, Carole Goble (2013):  
 **Why Linked Data is Not Enough for Scientists**  
 _Future Generation Computer Systems_ **29**(2), February 2013, Pages 599-611, ISSN 0167-739X  
 <https://doi.org/10.1016/j.future.2011.08.004> [[pdf](http://users.ox.ac.uk/~oerc0033/preprints/research-objects.pdf)] [[preprint](https://www.research.manchester.ac.uk/portal/en/publications/why-linked-data-is-not-enough-for-scientists(394d2487-5598-4e1e-a0c1-d67ad65d7947).html)]
 
-If you would like to cite the _Research Object model_, please use:
+If you would like to cite the classic _Research Object model_, please use:
 
 Khalid Belhajjame, Jun Zhao, Daniel Garijo, Matthew Gamble, Kristina Hettne, Raul Palma, Eleni Mina,
 Oscar Corcho, José Manuel Gómez-Pérez, Sean Bechhofer, Graham Klyne, Carole Goble (2015):  
@@ -28,12 +28,13 @@ Oscar Corcho, José Manuel Gómez-Pérez, Sean Bechhofer, Graham Klyne, Carole G
 _Journal of Web Semantics_ **32**  
 <https://doi.org/10.1016/j.websem.2015.01.003>
 
-To cite _RO-Crate_, please use:
+To cite the newer [RO-Crate](/ro-crate/) implementation of _Research Objects_, please use:
 
-Eoghan Ó Carragáin; Carole Goble; Peter Sefton; Stian Soiland-Reyes (2019):  
-**A lightweight approach to research object data packaging**  
-_Bioinformatics Open Source Conference (BOSC2019)_  
-<https://doi.org/10.5281/zenodo.3250687>
+Stian Soiland-Reyes, Peter Sefton, Mercè Crosas, Leyla Jael Castro, Frederik Coppens, José M. Fernández, Daniel Garijo, Björn Grüning, Marco La Rosa, Simone Leo, Eoghan Ó Carragáin, Marc Portier, Ana Trisovic, RO-Crate Community, Paul Groth, Carole Goble (2021):  
+**Packaging research artefacts with RO-Crate**.  
+[arXiv:2108.06503v1](https://arxiv.org/abs/arXiv:2108.06503v1) [cs.DL]
+<https://doi.org/10.5281/zenodo.5146228> 
+
 
 
 ## Related events/workshops
@@ -70,11 +71,20 @@ For the most recent articles, see also [RO-Crate publications](/ro-crate/outreac
 
 Articles relevant to all aspects of Research Objects, and the future of scholarly publishing. We generally only list publications available as [Open Access](http://www.library.manchester.ac.uk/using-the-library/staff/research/services/open-access-at-manchester/). To suggest corrections or additions, please [raise an issue](https://github.com/ResearchObject/researchobject.org/issues).
 
-### 2020
+### 2021
 
-Jeremy Leipzig, Daniel Nüst, Charles Tapley Hoyt, Stian Soiland-Reyes, Karthik Ram, Jane Greenberg (2020):  
+Stian Soiland-Reyes, Peter Sefton, Mercè Crosas, Leyla Jael Castro, Frederik Coppens, José M. Fernández, Daniel Garijo, Björn Grüning, Marco La Rosa, Simone Leo, Eoghan Ó Carragáin, Marc Portier, Ana Trisovic, RO-Crate Community, Paul Groth, Carole Goble (2021):  
+[**Packaging research artefacts with RO-Crate**](https://stain.github.io/ro-crate-paper/).  
+[arXiv:2108.06503v1](https://arxiv.org/abs/arXiv:2108.06503v1) [cs.DL]
+<https://doi.org/10.5281/zenodo.5146228> 
+
+Jeremy Leipzig, Daniel Nüst, Charles Tapley Hoyt, Karthik Ram, Jane Greenberg (2021):  
 [**The role of metadata in reproducible computational research**](https://arxiv.org/pdf/2006.08589.pdf)  
-[arXiv:2006.08589](https://arxiv.org/abs/2006.08589) [[pdf](https://arxiv.org/pdf/2006.08589.pdf)]
+_Patterns_ **2**(1):100322
+<https://doi.org/10.1016/j.patter.2021.100322>
+
+
+### 2020
 
 Kyle Chard, Niall Gaffney, Mihael Hategan, Kacper Kowalik, Bertram Ludaescher, Timothy McPhillips, Jarek Nabrzyski, Victoria Stodden, Ian Taylor, Thomas Thelen, Matthew J. Turk, Craig Willis (2020):  
 [**Toward Enabling Reproducibility for Data-Intensive Research using the Whole Tale Platform**](http://ebooks.iospress.nl/Download/Pdf)  
