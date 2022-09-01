@@ -30,16 +30,20 @@ _Journal of Web Semantics_ **32**
 
 To cite the newer [RO-Crate](/ro-crate/) implementation of _Research Objects_, please use:
 
-Stian Soiland-Reyes, Peter Sefton, Mercè Crosas, Leyla Jael Castro, Frederik Coppens, José M. Fernández, Daniel Garijo, Björn Grüning, Marco La Rosa, Simone Leo, Eoghan Ó Carragáin, Marc Portier, Ana Trisovic, RO-Crate Community, Paul Groth, Carole Goble (2021):  
-**Packaging research artefacts with RO-Crate**.  
-[arXiv:2108.06503v1](https://arxiv.org/abs/arXiv:2108.06503v1) [cs.DL]
-<https://doi.org/10.5281/zenodo.5146228> 
-
+Stian Soiland-Reyes, Peter Sefton, Mercè Crosas, Leyla Jael Castro, Frederik Coppens, José M. Fernández, Daniel Garijo, Björn Grüning, Marco La Rosa, Simone Leo, Eoghan Ó Carragáin, Marc Portier, Ana Trisovic, RO-Crate Community, Paul Groth, Carole Goble (2022):
+**Packaging research artefacts with RO-Crate**.    
+_Data Science_ **5**(2)  
+<https://doi.org/10.3233/DS-210053>
 
 
 ## Related events/workshops
 
 These events cover topics largely overlapping with research objects and modernizing scholarly communication.
+
+
+### 2021 onwards
+
+For newer events, see [RO-Crate outreach](https://www.researchobject.org/ro-crate/outreach.html)
 
 ### 2020 events
 
@@ -71,12 +75,14 @@ For the most recent articles, see also [RO-Crate publications](/ro-crate/outreac
 
 Articles relevant to all aspects of Research Objects, and the future of scholarly publishing. We generally only list publications available as [Open Access](http://www.library.manchester.ac.uk/using-the-library/staff/research/services/open-access-at-manchester/). To suggest corrections or additions, please [raise an issue](https://github.com/ResearchObject/researchobject.org/issues).
 
-### 2021
+### 2022
 
-Stian Soiland-Reyes, Peter Sefton, Mercè Crosas, Leyla Jael Castro, Frederik Coppens, José M. Fernández, Daniel Garijo, Björn Grüning, Marco La Rosa, Simone Leo, Eoghan Ó Carragáin, Marc Portier, Ana Trisovic, RO-Crate Community, Paul Groth, Carole Goble (2021):  
-[**Packaging research artefacts with RO-Crate**](https://stain.github.io/ro-crate-paper/).  
-[arXiv:2108.06503v1](https://arxiv.org/abs/arXiv:2108.06503v1) [cs.DL]
-<https://doi.org/10.5281/zenodo.5146228> 
+Stian Soiland-Reyes, Peter Sefton, Mercè Crosas, Leyla Jael Castro, Frederik Coppens, José M. Fernández, Daniel Garijo, Björn Grüning, Marco La Rosa, Simone Leo, Eoghan Ó Carragáin, Marc Portier, Ana Trisovic, RO-Crate Community, Paul Groth, Carole Goble (2022):
+**Packaging research artefacts with RO-Crate**.    
+_Data Science_ **5**(2)  
+<https://doi.org/10.3233/DS-210053>
+
+## 2021
 
 Krzysztof Kurowski, Oscar Corcho, Christine Choirat, Magnus Eriksson, Frederik Coppens, Mark van de Sanden, Milan Ojsteršek (2021):  
 [**EOSC Interoperability Framework**](https://op.europa.eu/flexpaper/common/view.jsp?doc=d787ea54-6a87-11eb-aeb5-01aa75ed71a1.en.PDF.pdf&format=pdf#page=10).  
