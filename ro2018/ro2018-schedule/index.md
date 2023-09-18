@@ -51,7 +51,7 @@ Schedule for [Workshop on Research Objects](http://researchobject.org/ro2018/) (
 * 12.00 **Posters** and **Demos**
   - [Propose breakouts and lightning talks](https://goo.gl/C1ubw9)
 * 12:30: **Lunch** (_Posters and Demos may continue_)
-* *3.30 **Keynote**:
+* 13.30 **Keynote**:
   - Federica Foglini:
   [The Research objects paradigm to manage the Scientific Life Cycle within the marine science domain – the EVER-EST Solution](https://doi.org/10.5281/zenodo.1484377) (45') [[slides](https://doi.org/10.5281/zenodo.1484377)] [[abstract](https://doi.org/10.5281/zenodo.1408170)]
 * 14.15 **Earth Science**
