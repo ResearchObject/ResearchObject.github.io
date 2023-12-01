@@ -130,7 +130,7 @@ For any questions, email the RO2018 Workshop Organizers at [ro2018@easychair.org
 
 ## Proposals for Breakout Sessions
 
-The workshop was an opportunity to run breakout sessions. We encouraged breakout proposals and discussion ideas to be added in this [shared document](https://goo.gl/C1ubw9). The
+The workshop was an opportunity to run breakout sessions. We encouraged breakout proposals and discussion ideas to be added in this [shared document](https://goo.gl/C1ubw9). 
 
 ## Lightning talks, posters and demo
 
