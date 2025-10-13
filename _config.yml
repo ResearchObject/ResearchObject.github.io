@@ -13,6 +13,7 @@ permalink: pretty
 markdown: kramdown
 
 remote_theme: daattali/beautiful-jekyll
+before-content: banner.html
 #theme: jekyll-theme-minimal
 #theme: just-the-docs
 
