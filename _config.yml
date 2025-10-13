@@ -48,3 +48,5 @@ collections:
     output: true
     permalink: /:collection/:path/ # Note, trailing / needed to avoid .html
 
+defaults:
+  before-content: banner.html
