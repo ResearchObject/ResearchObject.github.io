@@ -2,7 +2,7 @@
 title: researchobject.org
 email: info@esciencelab.org.uk
 description: > # this means to ignore newlines until "baseurl:"
-        ResearchObject.org is a community site aimed at gathering information, ideas, and interest around the topic of modernizing scholarly publication.
+  ResearchObject.org is a community site aimed at gathering information, ideas, and interest around the topic of modernizing scholarly publication.
 author: The Research Object community is coordinated by the eScience Lab at The University of Manchester, UK
 #baseurl: "" # the subpath of your site, e.g. /blog
 #url: "https://www.esciencelab.org.uk" # the base hostname & protocol for your site
@@ -13,6 +13,7 @@ permalink: pretty
 markdown: kramdown
 
 remote_theme: daattali/beautiful-jekyll
+before-content: banner.html
 #theme: jekyll-theme-minimal
 #theme: just-the-docs
 
@@ -20,8 +21,7 @@ plugins:
   - jekyll-redirect-from
   - jekyll-remote-theme
 
-# See https://github.com/daattali/beautiful-jekyll/blob/master/_config.yml    
-
+# See https://github.com/daattali/beautiful-jekyll/blob/master/_config.yml
 
 logo: /images/logo.png
 round-avatar: false
@@ -40,10 +40,15 @@ navbar-links:
   Related: "initiative"
   About: "about"
 
-date_format: "%-d %B %Y"  
+date_format: "%-d %B %Y"
 
 collections:
   initiative:
     output: true
     permalink: /:collection/:path/ # Note, trailing / needed to avoid .html
 
+defaults:
+  - scope:
+      path: ""
+    values:
+      before-content: [banner.html]
